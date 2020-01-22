@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="111" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="1.blade.php" type="PLAIN_TEXT" />
+      <mapping pattern="Coupon.md" type="PLAIN_TEXT" />
+      <mapping pattern="spider-block" type="PLAIN_TEXT" />
+      <mapping ext="rules" type="PLAIN_TEXT" />
+      <mapping ext="mak" type="PLAIN_TEXT" />
+      <mapping ext="erb" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

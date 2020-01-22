@@ -1,0 +1,2 @@
+com.alayouni.ansiHighlight
+de.espend.idea.laravel
