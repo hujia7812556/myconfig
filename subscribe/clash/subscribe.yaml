@@ -113,7 +113,8 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 CN10-US"
   - "\U0001F1FA\U0001F1F8 CN11-US"
 rules:
-- DOMAIN,www.v2ex.com,Proxy
+- DOMAIN-SUFFIX,v2ex.com,Proxy
+- DOMAIN,cdn.v2ex.com,Streaming
 - DOMAIN,app.adjust.com,DIRECT
 - DOMAIN,bdtj.tagtic.cn,DIRECT
 - DOMAIN,log.mmstat.com,DIRECT
