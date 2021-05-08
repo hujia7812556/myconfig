@@ -1,3 +1,4 @@
 rules:
  - DOMAIN-SUFFIX,v2ex.com,Proxy
  - DOMAIN,cdn.v2ex.com,Streaming
+ - DOMAIN-SUFFIX,gravatar.com,Proxy
