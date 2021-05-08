@@ -47,7 +47,7 @@ class Update:
             print('invalid config')
             return {}
         if userConfig and userConfig.get('rules'):
-            newConfig['rules'] = subscribeConfig.get('rules', []) + userConfig.get('rules')
+            newConfig['rules'] = userConfig.get('rules') + subscribeConfig.get('rules', [])
         return newConfig
         
 
