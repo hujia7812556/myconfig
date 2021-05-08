@@ -1,12 +1,13 @@
 import yaml
 import requests
+import os
 from copy import deepcopy
 from collections import OrderedDict
 
 class Update:
     subscribeUrl = 'https://mymonocloud.com/clash/289378/oSm3fgYZPjT4'
-    userConfigFileName = 'user.yaml'
-    outConfigFileName = 'subscribe.yaml'
+    userConfigFileName = os.path.split(os.path.realpath(__file__))[0] + '/user.yaml'
+    outConfigFileName = os.path.split(os.path.realpath(__file__))[0] + '/subscribe.yaml'
     proxies = {
         "http": "http://127.0.0.1:1080",
         "https": "http://127.0.0.1:1080",
@@ -19,7 +20,7 @@ class Update:
             print('invalid subscribeConfig')
             return
         newConfig = self.mergeConfg(subscribeConfig, userConfig)
-        print(newConfig)
+        #print(newConfig)
         if newConfig:
             f = open(self.outConfigFileName, 'w',encoding='utf-8')
             f.close()
