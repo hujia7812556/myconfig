@@ -2,14 +2,13 @@
 <RTSZDocument>
   <RoyalDocument>
     <ID>2fe02874-967c-45ae-bfaf-b3eaf0a6307a</ID>
-    <Modified>05/19/2021 08:53:06.053</Modified>
+    <Modified>05/20/2021 08:48:06.988</Modified>
     <ModifiedBy>hujia</ModifiedBy>
     <Name>工作</Name>
     <Created>05/07/2021 07:20:32.772</Created>
     <CreatedBy>hujia</CreatedBy>
     <PositionNr>0</PositionNr>
     <IsExpanded>True</IsExpanded>
-    <FileName>/Users/hujia/myproject/myconfig/royaltsx/工作.rtsz</FileName>
     <AutoMergeOption>1</AutoMergeOption>
     <AutoSaveAfterChange>False</AutoSaveAfterChange>
     <AutoSaveOnClose>False</AutoSaveOnClose>
@@ -142,9 +141,44 @@
     <CreatedBy>hujia</CreatedBy>
     <PositionNr>6</PositionNr>
     <IsConnectionTemplate>False</IsConnectionTemplate>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialId>f3d3cc37-260a-4f7b-8ea6-2c1664aecc39</CredentialId>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>3</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CustomImageList>{}</CustomImageList>
+    <Favorite>False</Favorite>
+    <KeySequenceEnabled>True</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>15f6cfdd-81dd-48f2-90f2-19c42e08907b</KeySequenceId>
+    <KeySequenceMode>1</KeySequenceMode>
+    <ParentID>8ff63cb6-6428-42a8-8290-83f637340dee</ParentID>
+    <Port>38022</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <Protocol>0</Protocol>
+    <URI>52.205.9.196</URI>
+  </RoyalFileTransferConnection>
+  <RoyalSSHConnection>
+    <ID>ca265048-90dd-4632-9dfb-2cf50412a746</ID>
+    <Name>ft50</Name>
+    <Modified>05/20/2021 08:37:47.789</Modified>
+    <Created>05/20/2021 08:35:40.141</Created>
+    <ModifiedBy>hujia</ModifiedBy>
+    <CreatedBy>hujia</CreatedBy>
+    <PositionNr>8</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
     <ParentID>8ff63cb6-6428-42a8-8290-83f637340dee</ParentID>
     <ObjectSpecialUsage />
-    <URI>52.205.9.196</URI>
+    <URI>192.168.0.16</URI>
     <CustomField11 />
     <CustomField12 />
     <CustomField13 />
@@ -160,44 +194,76 @@
     <CredentialPassphrase />
     <Passphrase />
     <ProxyPassword />
-    <Protocol>0</Protocol>
-    <Port>38022</Port>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <Port>22</Port>
     <Description />
     <PhysicalAddress />
     <CustomImageName />
     <CustomImageList>{}</CustomImageList>
     <CustomImage />
     <ColorFromParent>False</ColorFromParent>
+    <ColorName />
     <Color />
+    <Favorite>False</Favorite>
+    <CursorAppearance>0</CursorAppearance>
+    <BlinkCursor>False</BlinkCursor>
+    <FontOSX>Monaco</FontOSX>
+    <FontSizeOSX>11</FontSizeOSX>
+    <FontAntiAliasOSX>True</FontAntiAliasOSX>
+    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
+    <NonAsciiFontOSX>Monaco</NonAsciiFontOSX>
+    <NonAsciiFontSizeOSX>11</NonAsciiFontSizeOSX>
+    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
+    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
+    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <TerminalColumns>80</TerminalColumns>
+    <TerminalRows>24</TerminalRows>
+    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
+    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
+    <EnableBlinkingText>False</EnableBlinkingText>
+    <EnableItalicText>True</EnableItalicText>
+    <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
+    <CustomPalette1NormalRed>#bb0000</CustomPalette1NormalRed>
+    <CustomPalette2NormalGreen>#00bb00</CustomPalette2NormalGreen>
+    <CustomPalette3NormalYellow>#bbbb00</CustomPalette3NormalYellow>
+    <CustomPalette4NormalBlue>#0000bb</CustomPalette4NormalBlue>
+    <CustomPalette5NormalMagenta>#bb00bb</CustomPalette5NormalMagenta>
+    <CustomPalette6NormalCyan>#00bbbb</CustomPalette6NormalCyan>
+    <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
+    <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
+    <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
+    <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
+    <CustomPalette11BrightYellow>#ffff55</CustomPalette11BrightYellow>
+    <CustomPalette12BrightBlue>#5555ff</CustomPalette12BrightBlue>
+    <CustomPalette13BrightMagenta>#ff55ff</CustomPalette13BrightMagenta>
+    <CustomPalette14BrightCyan>#55ffff</CustomPalette14BrightCyan>
+    <CustomPalette15BrightWhite>#ffffff</CustomPalette15BrightWhite>
+    <SmartCursorColor>True</SmartCursorColor>
+    <BackColor>0</BackColor>
+    <BackColorOSX />
+    <ForeColor>7</ForeColor>
+    <ForeColorOSX />
+    <BoldColor>14</BoldColor>
+    <BoldColorOSX />
+    <SelectionColor>#555555</SelectionColor>
+    <SelectionTextColor>#ffffff</SelectionTextColor>
+    <CursorColor>#ffffff</CursorColor>
+    <CursorTextColor>#000000</CursorTextColor>
     <CredentialFromParent>False</CredentialFromParent>
     <CredentialMode>3</CredentialMode>
     <CredentialAutologon>True</CredentialAutologon>
     <CredentialOmitDomain>False</CredentialOmitDomain>
     <CredentialUsername />
-    <CredentialId>f3d3cc37-260a-4f7b-8ea6-2c1664aecc39</CredentialId>
+    <CredentialId>47892632-9c2e-450f-b856-dc8c31904d31</CredentialId>
     <CredentialName />
     <CredentialKeyMode>0</CredentialKeyMode>
     <CredentialKeyFile />
     <PrivateKeyPath />
     <CredentialKeyContent />
-    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
-    <PreConnectTaskMode>1</PreConnectTaskMode>
-    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
-    <PreConnectTaskName />
-    <PreConnectTaskWait>False</PreConnectTaskWait>
-    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
-    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
-    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
-    <PostDisconnectTaskName />
-    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
-    <KeySequenceFromParent>False</KeySequenceFromParent>
-    <KeySequenceEnabled>True</KeySequenceEnabled>
-    <KeySequenceMode>1</KeySequenceMode>
-    <KeySequence />
-    <KeySequenceId>15f6cfdd-81dd-48f2-90f2-19c42e08907b</KeySequenceId>
-    <KeySequenceName />
-    <Favorite>False</Favorite>
-  </RoyalFileTransferConnection>
+  </RoyalSSHConnection>
   <RoyalFolder>
     <ID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ID>
     <Name>Connections</Name>
@@ -720,27 +786,13 @@
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
     <PositionNr>14</PositionNr>
-    <IsExpanded>False</IsExpanded>
+    <IsExpanded>True</IsExpanded>
     <ParentID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ParentID>
-    <ObjectSpecialUsage />
-    <CustomField11 />
-    <CustomField12 />
-    <CustomField13 />
-    <CustomField14 />
-    <CustomField15 />
-    <CustomField16 />
-    <CustomField17 />
-    <CustomField18 />
-    <CustomField19 />
-    <CustomField20 />
-    <CustomProperties />
-    <CredentialPassword />
-    <CredentialPassphrase />
   </RoyalFolder>
   <RoyalSSHConnection>
     <ID>e365bdb9-a268-4b5d-b53f-903d23a99e30</ID>
     <Name>cronjob</Name>
-    <Modified>05/19/2021 08:53:21.799</Modified>
+    <Modified>05/20/2021 08:35:26.616</Modified>
     <Created>05/13/2021 08:08:49.721</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -762,6 +814,27 @@
     <CursorAppearance>0</CursorAppearance>
     <CursorColor>#ffffff</CursorColor>
     <CursorTextColor>#000000</CursorTextColor>
+    <CustomField1>172.31.31.246</CustomField1>
+    <CustomField10FromParent>False</CustomField10FromParent>
+    <CustomField11FromParent>False</CustomField11FromParent>
+    <CustomField12FromParent>False</CustomField12FromParent>
+    <CustomField13FromParent>False</CustomField13FromParent>
+    <CustomField14FromParent>False</CustomField14FromParent>
+    <CustomField15FromParent>False</CustomField15FromParent>
+    <CustomField16FromParent>False</CustomField16FromParent>
+    <CustomField17FromParent>False</CustomField17FromParent>
+    <CustomField18FromParent>False</CustomField18FromParent>
+    <CustomField19FromParent>False</CustomField19FromParent>
+    <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField20FromParent>False</CustomField20FromParent>
+    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField3FromParent>False</CustomField3FromParent>
+    <CustomField4FromParent>False</CustomField4FromParent>
+    <CustomField5FromParent>False</CustomField5FromParent>
+    <CustomField6FromParent>False</CustomField6FromParent>
+    <CustomField7FromParent>False</CustomField7FromParent>
+    <CustomField8FromParent>False</CustomField8FromParent>
+    <CustomField9FromParent>False</CustomField9FromParent>
     <CustomImageList>{}</CustomImageList>
     <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
     <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
@@ -793,7 +866,7 @@
     <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
     <IsSerialPortConnection>False</IsSerialPortConnection>
     <IsTelnetConnection>False</IsTelnetConnection>
-    <iTermTriggers>{\{"Action":"ScriptTrigger","Regex":"rz waiting to receive.\\\\*\\\\*B0100","Parameter":"/usr/local/bin/iterm2-send-zmodem.sh","PartialLine":true}};{\{"Action":"ScriptTrigger","Regex":"\\\\*\\\\*B00000000000000","Parameter":"/usr/local/bin/iterm2-recv-zmodem.sh","PartialLine":true}}</iTermTriggers>
+    <iTermTriggers>{\{"Action":"ScriptTrigger","Regex":"\\\\*\\\\*B00000000000000","Parameter":"/usr/local/bin/iterm2-recv-zmodem.sh","PartialLine":true}};{\{"Action":"ScriptTrigger","Regex":"rz waiting to receive.\\\\*\\\\*B0100","Parameter":"/usr/local/bin/iterm2-send-zmodem.sh","PartialLine":true}}</iTermTriggers>
     <KeySequence>. ssh-agent.sh{ENTER}</KeySequence>
     <KeySequenceEnabled>True</KeySequenceEnabled>
     <KeySequenceFromParent>False</KeySequenceFromParent>
@@ -824,52 +897,34 @@
     <PhysicalAddress />
     <CustomImageName />
     <CustomImage />
+    <ColorName />
     <Color />
-    <CustomField1>172.31.31.246</CustomField1>
-    <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2 />
-    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
+    <CustomProperties />
+    <CustomField2>{WAIT:100}cd /var/www/http/cmscronjob-prod{ENTER}</CustomField2>
     <CustomField3 />
-    <CustomField3FromParent>False</CustomField3FromParent>
     <CustomField4 />
-    <CustomField4FromParent>False</CustomField4FromParent>
     <CustomField5 />
-    <CustomField5FromParent>False</CustomField5FromParent>
     <CustomField6 />
-    <CustomField6FromParent>False</CustomField6FromParent>
     <CustomField7 />
-    <CustomField7FromParent>False</CustomField7FromParent>
     <CustomField8 />
-    <CustomField8FromParent>False</CustomField8FromParent>
     <CustomField9 />
-    <CustomField9FromParent>False</CustomField9FromParent>
     <CustomField10 />
-    <CustomField10FromParent>False</CustomField10FromParent>
     <CustomField11 />
-    <CustomField11FromParent>False</CustomField11FromParent>
     <CustomField12 />
-    <CustomField12FromParent>False</CustomField12FromParent>
     <CustomField13 />
-    <CustomField13FromParent>False</CustomField13FromParent>
     <CustomField14 />
-    <CustomField14FromParent>False</CustomField14FromParent>
     <CustomField15 />
-    <CustomField15FromParent>False</CustomField15FromParent>
     <CustomField16 />
-    <CustomField16FromParent>False</CustomField16FromParent>
     <CustomField17 />
-    <CustomField17FromParent>False</CustomField17FromParent>
     <CustomField18 />
-    <CustomField18FromParent>False</CustomField18FromParent>
     <CustomField19 />
-    <CustomField19FromParent>False</CustomField19FromParent>
     <CustomField20 />
-    <CustomField20FromParent>False</CustomField20FromParent>
   </RoyalSSHConnection>
   <RoyalSSHConnection>
     <ID>e6da6353-dcb4-4e01-9954-5a614241ab10</ID>
     <Name>cms</Name>
-    <Modified>05/19/2021 08:53:31.083</Modified>
+    <Modified>05/20/2021 08:37:56.417</Modified>
     <Created>05/19/2021 08:51:50.262</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -891,6 +946,157 @@
     <CursorAppearance>0</CursorAppearance>
     <CursorColor>#ffffff</CursorColor>
     <CursorTextColor>#000000</CursorTextColor>
+    <CustomField1>172.31.17.178</CustomField1>
+    <CustomField10FromParent>False</CustomField10FromParent>
+    <CustomField11FromParent>False</CustomField11FromParent>
+    <CustomField12FromParent>False</CustomField12FromParent>
+    <CustomField13FromParent>False</CustomField13FromParent>
+    <CustomField14FromParent>False</CustomField14FromParent>
+    <CustomField15FromParent>False</CustomField15FromParent>
+    <CustomField16FromParent>False</CustomField16FromParent>
+    <CustomField17FromParent>False</CustomField17FromParent>
+    <CustomField18FromParent>False</CustomField18FromParent>
+    <CustomField19FromParent>False</CustomField19FromParent>
+    <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField20FromParent>False</CustomField20FromParent>
+    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField3FromParent>False</CustomField3FromParent>
+    <CustomField4FromParent>False</CustomField4FromParent>
+    <CustomField5FromParent>False</CustomField5FromParent>
+    <CustomField6FromParent>False</CustomField6FromParent>
+    <CustomField7FromParent>False</CustomField7FromParent>
+    <CustomField8FromParent>False</CustomField8FromParent>
+    <CustomField9FromParent>False</CustomField9FromParent>
+    <CustomImageList>{}</CustomImageList>
+    <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
+    <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
+    <CustomPalette11BrightYellow>#ffff55</CustomPalette11BrightYellow>
+    <CustomPalette12BrightBlue>#5555ff</CustomPalette12BrightBlue>
+    <CustomPalette13BrightMagenta>#ff55ff</CustomPalette13BrightMagenta>
+    <CustomPalette14BrightCyan>#55ffff</CustomPalette14BrightCyan>
+    <CustomPalette15BrightWhite>#ffffff</CustomPalette15BrightWhite>
+    <CustomPalette1NormalRed>#bb0000</CustomPalette1NormalRed>
+    <CustomPalette2NormalGreen>#00bb00</CustomPalette2NormalGreen>
+    <CustomPalette3NormalYellow>#bbbb00</CustomPalette3NormalYellow>
+    <CustomPalette4NormalBlue>#0000bb</CustomPalette4NormalBlue>
+    <CustomPalette5NormalMagenta>#bb00bb</CustomPalette5NormalMagenta>
+    <CustomPalette6NormalCyan>#00bbbb</CustomPalette6NormalCyan>
+    <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
+    <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
+    <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
+    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
+    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
+    <EnableBlinkingText>False</EnableBlinkingText>
+    <EnableItalicText>True</EnableItalicText>
+    <EnableLoggingOSX>False</EnableLoggingOSX>
+    <Favorite>False</Favorite>
+    <FontAntiAliasOSX>True</FontAntiAliasOSX>
+    <FontOSX>Inconsolata-Regular</FontOSX>
+    <FontSizeOSX>24</FontSizeOSX>
+    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
+    <ForeColor>7</ForeColor>
+    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <iTermTriggers>{\{"Action":"ScriptTrigger","Regex":"rz waiting to receive.\\\\*\\\\*B0100","Parameter":"/usr/local/bin/iterm2-send-zmodem.sh","PartialLine":true}};{\{"Action":"ScriptTrigger","Regex":"\\\\*\\\\*B00000000000000","Parameter":"/usr/local/bin/iterm2-recv-zmodem.sh","PartialLine":true}}</iTermTriggers>
+    <KeySequence>. ssh-agent.sh{ENTER}</KeySequence>
+    <KeySequenceEnabled>True</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>15f6cfdd-81dd-48f2-90f2-19c42e08907b</KeySequenceId>
+    <KeySequenceMode>1</KeySequenceMode>
+    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
+    <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
+    <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
+    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <ParentID>81484e8f-758e-4ad5-b1a0-20f6e039c5bb</ParentID>
+    <Port>38022</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <SelectionColor>#555555</SelectionColor>
+    <SelectionTextColor>#ffffff</SelectionTextColor>
+    <SmartCursorColor>True</SmartCursorColor>
+    <TerminalColumns>80</TerminalColumns>
+    <TerminalRows>24</TerminalRows>
+    <URI>52.205.9.196</URI>
+    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <Description />
+    <PhysicalAddress />
+    <CustomImageName />
+    <CustomImage />
+    <ColorName />
+    <Color />
+    <CustomField2>{WAIT:100}cd /var/www/http/cmscronjob-prod{ENTER}</CustomField2>
+    <CustomField3 />
+    <CustomField4 />
+    <CustomField5 />
+    <CustomField6 />
+    <CustomField7 />
+    <CustomField8 />
+    <CustomField9 />
+    <CustomField10 />
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
+  </RoyalSSHConnection>
+  <RoyalSSHConnection>
+    <ID>df56d9aa-3f54-4c16-8ad0-4e1c42e72f98</ID>
+    <Name>editor</Name>
+    <Modified>05/20/2021 08:37:56.417</Modified>
+    <Created>05/20/2021 07:47:29.073</Created>
+    <ModifiedBy>hujia</ModifiedBy>
+    <CreatedBy>hujia</CreatedBy>
+    <PositionNr>6</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <BackColor>0</BackColor>
+    <BlinkCursor>False</BlinkCursor>
+    <BoldColor>14</BoldColor>
+    <ColorFromParent>False</ColorFromParent>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialId>f3d3cc37-260a-4f7b-8ea6-2c1664aecc39</CredentialId>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>3</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>OreXeA/14jVSTAnFq+A22iIedhd5ErSdRF77FSWYPuY77Tdy5wusiyugAdC9e5xaXOl0C2X8TwV6WE2kuIMUB/qD12/62qipyD03deANfZs=</CredentialPassword>
+    <CredentialUsername>devops</CredentialUsername>
+    <CursorAppearance>0</CursorAppearance>
+    <CursorColor>#ffffff</CursorColor>
+    <CursorTextColor>#000000</CursorTextColor>
+    <CustomField1>172.31.30.162</CustomField1>
+    <CustomField10FromParent>False</CustomField10FromParent>
+    <CustomField11FromParent>False</CustomField11FromParent>
+    <CustomField12FromParent>False</CustomField12FromParent>
+    <CustomField13FromParent>False</CustomField13FromParent>
+    <CustomField14FromParent>False</CustomField14FromParent>
+    <CustomField15FromParent>False</CustomField15FromParent>
+    <CustomField16FromParent>False</CustomField16FromParent>
+    <CustomField17FromParent>False</CustomField17FromParent>
+    <CustomField18FromParent>False</CustomField18FromParent>
+    <CustomField19FromParent>False</CustomField19FromParent>
+    <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField20FromParent>False</CustomField20FromParent>
+    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField3FromParent>False</CustomField3FromParent>
+    <CustomField4FromParent>False</CustomField4FromParent>
+    <CustomField5FromParent>False</CustomField5FromParent>
+    <CustomField6FromParent>False</CustomField6FromParent>
+    <CustomField7FromParent>False</CustomField7FromParent>
+    <CustomField8FromParent>False</CustomField8FromParent>
+    <CustomField9FromParent>False</CustomField9FromParent>
     <CustomImageList>{}</CustomImageList>
     <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
     <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
@@ -948,63 +1154,352 @@
     <TerminalRows>24</TerminalRows>
     <URI>52.205.9.196</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <ParentID>81484e8f-758e-4ad5-b1a0-20f6e039c5bb</ParentID>
+    <ObjectSpecialUsage />
     <Description />
     <PhysicalAddress />
     <CustomImageName />
     <CustomImage />
+    <ColorName />
     <Color />
-    <CustomField1>172.31.17.178</CustomField1>
-    <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2 />
-    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField2>{WAIT:100}cd /var/www/http/fdeditor-prod{ENTER}</CustomField2>
     <CustomField3 />
-    <CustomField3FromParent>False</CustomField3FromParent>
     <CustomField4 />
-    <CustomField4FromParent>False</CustomField4FromParent>
     <CustomField5 />
-    <CustomField5FromParent>False</CustomField5FromParent>
     <CustomField6 />
-    <CustomField6FromParent>False</CustomField6FromParent>
     <CustomField7 />
-    <CustomField7FromParent>False</CustomField7FromParent>
     <CustomField8 />
-    <CustomField8FromParent>False</CustomField8FromParent>
     <CustomField9 />
-    <CustomField9FromParent>False</CustomField9FromParent>
     <CustomField10 />
-    <CustomField10FromParent>False</CustomField10FromParent>
     <CustomField11 />
-    <CustomField11FromParent>False</CustomField11FromParent>
     <CustomField12 />
-    <CustomField12FromParent>False</CustomField12FromParent>
     <CustomField13 />
-    <CustomField13FromParent>False</CustomField13FromParent>
     <CustomField14 />
-    <CustomField14FromParent>False</CustomField14FromParent>
     <CustomField15 />
-    <CustomField15FromParent>False</CustomField15FromParent>
     <CustomField16 />
-    <CustomField16FromParent>False</CustomField16FromParent>
     <CustomField17 />
-    <CustomField17FromParent>False</CustomField17FromParent>
     <CustomField18 />
-    <CustomField18FromParent>False</CustomField18FromParent>
     <CustomField19 />
-    <CustomField19FromParent>False</CustomField19FromParent>
     <CustomField20 />
+  </RoyalSSHConnection>
+  <RoyalFolder>
+    <ID>120781d7-509a-42d6-9380-4d738d504a1f</ID>
+    <Name>网站测试环境</Name>
+    <Modified>05/20/2021 08:35:26.617</Modified>
+    <Created>05/20/2021 08:35:03.564</Created>
+    <ModifiedBy>hujia</ModifiedBy>
+    <CreatedBy>hujia</CreatedBy>
+    <PositionNr>16</PositionNr>
+    <IsExpanded>True</IsExpanded>
+    <ParentID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ParentID>
+    <ObjectSpecialUsage />
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
+    <CustomProperties />
+    <CredentialPassword />
+    <CredentialPassphrase />
+  </RoyalFolder>
+  <RoyalSSHConnection>
+    <ID>6132fa9e-6ac6-466b-a660-e12f9061082b</ID>
+    <Name>ft50</Name>
+    <Modified>05/20/2021 08:46:04.344</Modified>
+    <Created>05/20/2021 08:37:53.381</Created>
+    <ModifiedBy>hujia</ModifiedBy>
+    <CreatedBy>hujia</CreatedBy>
+    <PositionNr>2</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <BackColor>0</BackColor>
+    <BlinkCursor>False</BlinkCursor>
+    <BoldColor>14</BoldColor>
+    <ColorFromParent>False</ColorFromParent>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialId>47892632-9c2e-450f-b856-dc8c31904d31</CredentialId>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>3</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>kVmcdTPSZ1VT5tYSiJuGG9ttMGsQQxT7Cpo7/8VXv9K9wvpXoZXvy6amRgRamT1PK026kMH2yUKtFFuvl6Fion0phTOCAY2vwiJFUhyLRSM=</CredentialPassword>
+    <CredentialUsername>devops</CredentialUsername>
+    <CursorAppearance>0</CursorAppearance>
+    <CursorColor>#ffffff</CursorColor>
+    <CursorTextColor>#000000</CursorTextColor>
+    <CustomField1>10.2.112.222</CustomField1>
+    <CustomField10FromParent>False</CustomField10FromParent>
+    <CustomField11FromParent>False</CustomField11FromParent>
+    <CustomField12FromParent>False</CustomField12FromParent>
+    <CustomField13FromParent>False</CustomField13FromParent>
+    <CustomField14FromParent>False</CustomField14FromParent>
+    <CustomField15FromParent>False</CustomField15FromParent>
+    <CustomField16FromParent>False</CustomField16FromParent>
+    <CustomField17FromParent>False</CustomField17FromParent>
+    <CustomField18FromParent>False</CustomField18FromParent>
+    <CustomField19FromParent>False</CustomField19FromParent>
+    <CustomField1FromParent>False</CustomField1FromParent>
     <CustomField20FromParent>False</CustomField20FromParent>
-    <ParentID>81484e8f-758e-4ad5-b1a0-20f6e039c5bb</ParentID>
+    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField3FromParent>False</CustomField3FromParent>
+    <CustomField4FromParent>False</CustomField4FromParent>
+    <CustomField5FromParent>False</CustomField5FromParent>
+    <CustomField6FromParent>False</CustomField6FromParent>
+    <CustomField7FromParent>False</CustomField7FromParent>
+    <CustomField8FromParent>False</CustomField8FromParent>
+    <CustomField9FromParent>False</CustomField9FromParent>
+    <CustomImageList>{}</CustomImageList>
+    <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
+    <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
+    <CustomPalette11BrightYellow>#ffff55</CustomPalette11BrightYellow>
+    <CustomPalette12BrightBlue>#5555ff</CustomPalette12BrightBlue>
+    <CustomPalette13BrightMagenta>#ff55ff</CustomPalette13BrightMagenta>
+    <CustomPalette14BrightCyan>#55ffff</CustomPalette14BrightCyan>
+    <CustomPalette15BrightWhite>#ffffff</CustomPalette15BrightWhite>
+    <CustomPalette1NormalRed>#bb0000</CustomPalette1NormalRed>
+    <CustomPalette2NormalGreen>#00bb00</CustomPalette2NormalGreen>
+    <CustomPalette3NormalYellow>#bbbb00</CustomPalette3NormalYellow>
+    <CustomPalette4NormalBlue>#0000bb</CustomPalette4NormalBlue>
+    <CustomPalette5NormalMagenta>#bb00bb</CustomPalette5NormalMagenta>
+    <CustomPalette6NormalCyan>#00bbbb</CustomPalette6NormalCyan>
+    <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
+    <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
+    <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
+    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
+    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
+    <EnableBlinkingText>False</EnableBlinkingText>
+    <EnableItalicText>True</EnableItalicText>
+    <EnableLoggingOSX>False</EnableLoggingOSX>
+    <Favorite>False</Favorite>
+    <FontAntiAliasOSX>True</FontAntiAliasOSX>
+    <FontOSX>Inconsolata-Regular</FontOSX>
+    <FontSizeOSX>24</FontSizeOSX>
+    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
+    <ForeColor>7</ForeColor>
+    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <iTermTriggers>{\{"Action":"ScriptTrigger","Regex":"\\\\*\\\\*B00000000000000","Parameter":"/usr/local/bin/iterm2-recv-zmodem.sh","PartialLine":true}};{\{"Action":"ScriptTrigger","Regex":"rz waiting to receive.\\\\*\\\\*B0100","Parameter":"/usr/local/bin/iterm2-send-zmodem.sh","PartialLine":true}}</iTermTriggers>
+    <KeySequence>. ssh-agent.sh{ENTER}</KeySequence>
+    <KeySequenceEnabled>True</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>c9f3bae8-f549-4944-8752-7fccf5acb611</KeySequenceId>
+    <KeySequenceMode>1</KeySequenceMode>
+    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
+    <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
+    <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
+    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <SelectionColor>#555555</SelectionColor>
+    <SelectionTextColor>#ffffff</SelectionTextColor>
+    <SmartCursorColor>True</SmartCursorColor>
+    <TerminalColumns>80</TerminalColumns>
+    <TerminalRows>24</TerminalRows>
+    <URI>192.168.0.16</URI>
+    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <Description />
+    <PhysicalAddress />
+    <CustomImageName />
+    <CustomImage />
+    <ColorName />
+    <Color />
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
+    <CustomProperties />
+    <CustomField2 />
+    <CustomField3 />
+    <CustomField4 />
+    <CustomField5 />
+    <CustomField6 />
+    <CustomField7 />
+    <CustomField8 />
+    <CustomField9 />
+    <CustomField10 />
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
+    <ParentID>120781d7-509a-42d6-9380-4d738d504a1f</ParentID>
+    <ObjectSpecialUsage />
+    <CredentialName />
+    <CredentialKeyFile />
+    <PrivateKeyPath />
+    <CredentialKeyContent />
+    <CredentialPassphrase />
+    <Passphrase />
+    <PreConnectTaskName />
+    <PostDisconnectTaskName />
+    <KeySequenceName />
+  </RoyalSSHConnection>
+  <RoyalSSHConnection>
+    <ID>fd95cdfc-a354-4fd6-a9db-0d337fd028f9</ID>
+    <Name>ft58</Name>
+    <Modified>05/20/2021 08:48:19.073</Modified>
+    <Created>05/20/2021 08:48:06.988</Created>
+    <ModifiedBy>hujia</ModifiedBy>
+    <CreatedBy>hujia</CreatedBy>
+    <PositionNr>4</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <BackColor>0</BackColor>
+    <BlinkCursor>False</BlinkCursor>
+    <BoldColor>14</BoldColor>
+    <ColorFromParent>False</ColorFromParent>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialId>47892632-9c2e-450f-b856-dc8c31904d31</CredentialId>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>3</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>kVmcdTPSZ1VT5tYSiJuGG9ttMGsQQxT7Cpo7/8VXv9K9wvpXoZXvy6amRgRamT1PK026kMH2yUKtFFuvl6Fion0phTOCAY2vwiJFUhyLRSM=</CredentialPassword>
+    <CredentialUsername>devops</CredentialUsername>
+    <CursorAppearance>0</CursorAppearance>
+    <CursorColor>#ffffff</CursorColor>
+    <CursorTextColor>#000000</CursorTextColor>
+    <CustomField1>10.2.101.143</CustomField1>
+    <CustomField10FromParent>False</CustomField10FromParent>
+    <CustomField11FromParent>False</CustomField11FromParent>
+    <CustomField12FromParent>False</CustomField12FromParent>
+    <CustomField13FromParent>False</CustomField13FromParent>
+    <CustomField14FromParent>False</CustomField14FromParent>
+    <CustomField15FromParent>False</CustomField15FromParent>
+    <CustomField16FromParent>False</CustomField16FromParent>
+    <CustomField17FromParent>False</CustomField17FromParent>
+    <CustomField18FromParent>False</CustomField18FromParent>
+    <CustomField19FromParent>False</CustomField19FromParent>
+    <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField20FromParent>False</CustomField20FromParent>
+    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField3FromParent>False</CustomField3FromParent>
+    <CustomField4FromParent>False</CustomField4FromParent>
+    <CustomField5FromParent>False</CustomField5FromParent>
+    <CustomField6FromParent>False</CustomField6FromParent>
+    <CustomField7FromParent>False</CustomField7FromParent>
+    <CustomField8FromParent>False</CustomField8FromParent>
+    <CustomField9FromParent>False</CustomField9FromParent>
+    <CustomImageList>{}</CustomImageList>
+    <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
+    <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
+    <CustomPalette11BrightYellow>#ffff55</CustomPalette11BrightYellow>
+    <CustomPalette12BrightBlue>#5555ff</CustomPalette12BrightBlue>
+    <CustomPalette13BrightMagenta>#ff55ff</CustomPalette13BrightMagenta>
+    <CustomPalette14BrightCyan>#55ffff</CustomPalette14BrightCyan>
+    <CustomPalette15BrightWhite>#ffffff</CustomPalette15BrightWhite>
+    <CustomPalette1NormalRed>#bb0000</CustomPalette1NormalRed>
+    <CustomPalette2NormalGreen>#00bb00</CustomPalette2NormalGreen>
+    <CustomPalette3NormalYellow>#bbbb00</CustomPalette3NormalYellow>
+    <CustomPalette4NormalBlue>#0000bb</CustomPalette4NormalBlue>
+    <CustomPalette5NormalMagenta>#bb00bb</CustomPalette5NormalMagenta>
+    <CustomPalette6NormalCyan>#00bbbb</CustomPalette6NormalCyan>
+    <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
+    <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
+    <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
+    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
+    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
+    <EnableBlinkingText>False</EnableBlinkingText>
+    <EnableItalicText>True</EnableItalicText>
+    <EnableLoggingOSX>False</EnableLoggingOSX>
+    <Favorite>False</Favorite>
+    <FontAntiAliasOSX>True</FontAntiAliasOSX>
+    <FontOSX>Inconsolata-Regular</FontOSX>
+    <FontSizeOSX>24</FontSizeOSX>
+    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
+    <ForeColor>7</ForeColor>
+    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <iTermTriggers>{\{"Action":"ScriptTrigger","Regex":"\\\\*\\\\*B00000000000000","Parameter":"/usr/local/bin/iterm2-recv-zmodem.sh","PartialLine":true}};{\{"Action":"ScriptTrigger","Regex":"rz waiting to receive.\\\\*\\\\*B0100","Parameter":"/usr/local/bin/iterm2-send-zmodem.sh","PartialLine":true}}</iTermTriggers>
+    <KeySequence>. ssh-agent.sh{ENTER}</KeySequence>
+    <KeySequenceEnabled>True</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>c9f3bae8-f549-4944-8752-7fccf5acb611</KeySequenceId>
+    <KeySequenceMode>1</KeySequenceMode>
+    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
+    <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
+    <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
+    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <Port>22</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <SelectionColor>#555555</SelectionColor>
+    <SelectionTextColor>#ffffff</SelectionTextColor>
+    <SmartCursorColor>True</SmartCursorColor>
+    <TerminalColumns>80</TerminalColumns>
+    <TerminalRows>24</TerminalRows>
+    <URI>192.168.0.16</URI>
+    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <Description />
+    <PhysicalAddress />
+    <CustomImageName />
+    <CustomImage />
+    <ColorName />
+    <Color />
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
+    <CustomProperties />
+    <CustomField2 />
+    <CustomField3 />
+    <CustomField4 />
+    <CustomField5 />
+    <CustomField6 />
+    <CustomField7 />
+    <CustomField8 />
+    <CustomField9 />
+    <CustomField10 />
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
+    <CredentialName />
+    <CredentialKeyFile />
+    <PrivateKeyPath />
+    <CredentialKeyContent />
+    <CredentialPassphrase />
+    <Passphrase />
+    <PreConnectTaskName />
+    <PostDisconnectTaskName />
+    <KeySequenceName />
+    <ParentID>120781d7-509a-42d6-9380-4d738d504a1f</ParentID>
     <ObjectSpecialUsage />
   </RoyalSSHConnection>
   <RoyalFolder>
     <ID>a8bae26f-b3d6-41a8-afec-8eea99654c5d</ID>
     <Name>search</Name>
-    <Modified>05/19/2021 08:53:06.053</Modified>
+    <Modified>05/20/2021 08:35:26.617</Modified>
     <Created>05/14/2021 06:15:52.052</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
-    <PositionNr>16</PositionNr>
-    <IsExpanded>True</IsExpanded>
+    <PositionNr>18</PositionNr>
+    <IsExpanded>False</IsExpanded>
     <ParentID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ParentID>
   </RoyalFolder>
   <RoyalSSHConnection>
@@ -1032,6 +1527,27 @@
     <CursorAppearance>0</CursorAppearance>
     <CursorColor>#ffffff</CursorColor>
     <CursorTextColor>#000000</CursorTextColor>
+    <CustomField1>172.31.30.179</CustomField1>
+    <CustomField10FromParent>False</CustomField10FromParent>
+    <CustomField11FromParent>False</CustomField11FromParent>
+    <CustomField12FromParent>False</CustomField12FromParent>
+    <CustomField13FromParent>False</CustomField13FromParent>
+    <CustomField14FromParent>False</CustomField14FromParent>
+    <CustomField15FromParent>False</CustomField15FromParent>
+    <CustomField16FromParent>False</CustomField16FromParent>
+    <CustomField17FromParent>False</CustomField17FromParent>
+    <CustomField18FromParent>False</CustomField18FromParent>
+    <CustomField19FromParent>False</CustomField19FromParent>
+    <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField20FromParent>False</CustomField20FromParent>
+    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField3FromParent>False</CustomField3FromParent>
+    <CustomField4FromParent>False</CustomField4FromParent>
+    <CustomField5FromParent>False</CustomField5FromParent>
+    <CustomField6FromParent>False</CustomField6FromParent>
+    <CustomField7FromParent>False</CustomField7FromParent>
+    <CustomField8FromParent>False</CustomField8FromParent>
+    <CustomField9FromParent>False</CustomField9FromParent>
     <CustomImageList>{}</CustomImageList>
     <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
     <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
@@ -1049,6 +1565,7 @@
     <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
     <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
     <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
     <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
     <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
     <EnableBlinkingText>False</EnableBlinkingText>
@@ -1090,53 +1607,6 @@
     <TerminalRows>24</TerminalRows>
     <URI>52.205.9.196</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
-    <Description />
-    <PhysicalAddress />
-    <CustomImageName />
-    <CustomImage />
-    <Color />
-    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
-    <CustomProperties />
-    <CustomField1>172.31.30.179</CustomField1>
-    <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2 />
-    <CustomField2FromParent>False</CustomField2FromParent>
-    <CustomField3 />
-    <CustomField3FromParent>False</CustomField3FromParent>
-    <CustomField4 />
-    <CustomField4FromParent>False</CustomField4FromParent>
-    <CustomField5 />
-    <CustomField5FromParent>False</CustomField5FromParent>
-    <CustomField6 />
-    <CustomField6FromParent>False</CustomField6FromParent>
-    <CustomField7 />
-    <CustomField7FromParent>False</CustomField7FromParent>
-    <CustomField8 />
-    <CustomField8FromParent>False</CustomField8FromParent>
-    <CustomField9 />
-    <CustomField9FromParent>False</CustomField9FromParent>
-    <CustomField10 />
-    <CustomField10FromParent>False</CustomField10FromParent>
-    <CustomField11 />
-    <CustomField11FromParent>False</CustomField11FromParent>
-    <CustomField12 />
-    <CustomField12FromParent>False</CustomField12FromParent>
-    <CustomField13 />
-    <CustomField13FromParent>False</CustomField13FromParent>
-    <CustomField14 />
-    <CustomField14FromParent>False</CustomField14FromParent>
-    <CustomField15 />
-    <CustomField15FromParent>False</CustomField15FromParent>
-    <CustomField16 />
-    <CustomField16FromParent>False</CustomField16FromParent>
-    <CustomField17 />
-    <CustomField17FromParent>False</CustomField17FromParent>
-    <CustomField18 />
-    <CustomField18FromParent>False</CustomField18FromParent>
-    <CustomField19 />
-    <CustomField19FromParent>False</CustomField19FromParent>
-    <CustomField20 />
-    <CustomField20FromParent>False</CustomField20FromParent>
   </RoyalSSHConnection>
   <RoyalSSHConnection>
     <ID>219514ad-5d71-4216-93ec-0672a245eaa2</ID>
@@ -1163,6 +1633,27 @@
     <CursorAppearance>0</CursorAppearance>
     <CursorColor>#ffffff</CursorColor>
     <CursorTextColor>#000000</CursorTextColor>
+    <CustomField1>172.31.71.193</CustomField1>
+    <CustomField10FromParent>False</CustomField10FromParent>
+    <CustomField11FromParent>False</CustomField11FromParent>
+    <CustomField12FromParent>False</CustomField12FromParent>
+    <CustomField13FromParent>False</CustomField13FromParent>
+    <CustomField14FromParent>False</CustomField14FromParent>
+    <CustomField15FromParent>False</CustomField15FromParent>
+    <CustomField16FromParent>False</CustomField16FromParent>
+    <CustomField17FromParent>False</CustomField17FromParent>
+    <CustomField18FromParent>False</CustomField18FromParent>
+    <CustomField19FromParent>False</CustomField19FromParent>
+    <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField20FromParent>False</CustomField20FromParent>
+    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField3FromParent>False</CustomField3FromParent>
+    <CustomField4FromParent>False</CustomField4FromParent>
+    <CustomField5FromParent>False</CustomField5FromParent>
+    <CustomField6FromParent>False</CustomField6FromParent>
+    <CustomField7FromParent>False</CustomField7FromParent>
+    <CustomField8FromParent>False</CustomField8FromParent>
+    <CustomField9FromParent>False</CustomField9FromParent>
     <CustomImageList>{}</CustomImageList>
     <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
     <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
@@ -1180,6 +1671,7 @@
     <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
     <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
     <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
     <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
     <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
     <EnableBlinkingText>False</EnableBlinkingText>
@@ -1204,6 +1696,7 @@
     <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
     <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
     <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <ParentID>a8bae26f-b3d6-41a8-afec-8eea99654c5d</ParentID>
     <Port>38022</Port>
     <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
     <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
@@ -1220,55 +1713,6 @@
     <TerminalRows>24</TerminalRows>
     <URI>52.205.9.196</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
-    <Description />
-    <PhysicalAddress />
-    <CustomImageName />
-    <CustomImage />
-    <Color />
-    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
-    <CustomProperties />
-    <CustomField1>172.31.71.193</CustomField1>
-    <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2 />
-    <CustomField2FromParent>False</CustomField2FromParent>
-    <CustomField3 />
-    <CustomField3FromParent>False</CustomField3FromParent>
-    <CustomField4 />
-    <CustomField4FromParent>False</CustomField4FromParent>
-    <CustomField5 />
-    <CustomField5FromParent>False</CustomField5FromParent>
-    <CustomField6 />
-    <CustomField6FromParent>False</CustomField6FromParent>
-    <CustomField7 />
-    <CustomField7FromParent>False</CustomField7FromParent>
-    <CustomField8 />
-    <CustomField8FromParent>False</CustomField8FromParent>
-    <CustomField9 />
-    <CustomField9FromParent>False</CustomField9FromParent>
-    <CustomField10 />
-    <CustomField10FromParent>False</CustomField10FromParent>
-    <CustomField11 />
-    <CustomField11FromParent>False</CustomField11FromParent>
-    <CustomField12 />
-    <CustomField12FromParent>False</CustomField12FromParent>
-    <CustomField13 />
-    <CustomField13FromParent>False</CustomField13FromParent>
-    <CustomField14 />
-    <CustomField14FromParent>False</CustomField14FromParent>
-    <CustomField15 />
-    <CustomField15FromParent>False</CustomField15FromParent>
-    <CustomField16 />
-    <CustomField16FromParent>False</CustomField16FromParent>
-    <CustomField17 />
-    <CustomField17FromParent>False</CustomField17FromParent>
-    <CustomField18 />
-    <CustomField18FromParent>False</CustomField18FromParent>
-    <CustomField19 />
-    <CustomField19FromParent>False</CustomField19FromParent>
-    <CustomField20 />
-    <CustomField20FromParent>False</CustomField20FromParent>
-    <ParentID>a8bae26f-b3d6-41a8-afec-8eea99654c5d</ParentID>
-    <ObjectSpecialUsage />
   </RoyalSSHConnection>
   <RoyalSSHConnection>
     <ID>598297ca-c71a-4a2f-b4a9-e6962a69efad</ID>
@@ -1295,6 +1739,27 @@
     <CursorAppearance>0</CursorAppearance>
     <CursorColor>#ffffff</CursorColor>
     <CursorTextColor>#000000</CursorTextColor>
+    <CustomField1>172.31.33.84</CustomField1>
+    <CustomField10FromParent>False</CustomField10FromParent>
+    <CustomField11FromParent>False</CustomField11FromParent>
+    <CustomField12FromParent>False</CustomField12FromParent>
+    <CustomField13FromParent>False</CustomField13FromParent>
+    <CustomField14FromParent>False</CustomField14FromParent>
+    <CustomField15FromParent>False</CustomField15FromParent>
+    <CustomField16FromParent>False</CustomField16FromParent>
+    <CustomField17FromParent>False</CustomField17FromParent>
+    <CustomField18FromParent>False</CustomField18FromParent>
+    <CustomField19FromParent>False</CustomField19FromParent>
+    <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField20FromParent>False</CustomField20FromParent>
+    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField3FromParent>False</CustomField3FromParent>
+    <CustomField4FromParent>False</CustomField4FromParent>
+    <CustomField5FromParent>False</CustomField5FromParent>
+    <CustomField6FromParent>False</CustomField6FromParent>
+    <CustomField7FromParent>False</CustomField7FromParent>
+    <CustomField8FromParent>False</CustomField8FromParent>
+    <CustomField9FromParent>False</CustomField9FromParent>
     <CustomImageList>{}</CustomImageList>
     <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
     <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
@@ -1312,6 +1777,7 @@
     <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
     <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
     <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
     <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
     <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
     <EnableBlinkingText>False</EnableBlinkingText>
@@ -1336,6 +1802,7 @@
     <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
     <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
     <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <ParentID>a8bae26f-b3d6-41a8-afec-8eea99654c5d</ParentID>
     <Port>38022</Port>
     <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
     <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
@@ -1352,58 +1819,6 @@
     <TerminalRows>24</TerminalRows>
     <URI>52.205.9.196</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
-    <Description />
-    <PhysicalAddress />
-    <CustomImageName />
-    <CustomImage />
-    <Color />
-    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
-    <CustomProperties />
-    <CustomField1>172.31.33.84</CustomField1>
-    <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2 />
-    <CustomField2FromParent>False</CustomField2FromParent>
-    <CustomField3 />
-    <CustomField3FromParent>False</CustomField3FromParent>
-    <CustomField4 />
-    <CustomField4FromParent>False</CustomField4FromParent>
-    <CustomField5 />
-    <CustomField5FromParent>False</CustomField5FromParent>
-    <CustomField6 />
-    <CustomField6FromParent>False</CustomField6FromParent>
-    <CustomField7 />
-    <CustomField7FromParent>False</CustomField7FromParent>
-    <CustomField8 />
-    <CustomField8FromParent>False</CustomField8FromParent>
-    <CustomField9 />
-    <CustomField9FromParent>False</CustomField9FromParent>
-    <CustomField10 />
-    <CustomField10FromParent>False</CustomField10FromParent>
-    <CustomField11 />
-    <CustomField11FromParent>False</CustomField11FromParent>
-    <CustomField12 />
-    <CustomField12FromParent>False</CustomField12FromParent>
-    <CustomField13 />
-    <CustomField13FromParent>False</CustomField13FromParent>
-    <CustomField14 />
-    <CustomField14FromParent>False</CustomField14FromParent>
-    <CustomField15 />
-    <CustomField15FromParent>False</CustomField15FromParent>
-    <CustomField16 />
-    <CustomField16FromParent>False</CustomField16FromParent>
-    <CustomField17 />
-    <CustomField17FromParent>False</CustomField17FromParent>
-    <CustomField18 />
-    <CustomField18FromParent>False</CustomField18FromParent>
-    <CustomField19 />
-    <CustomField19FromParent>False</CustomField19FromParent>
-    <CustomField20 />
-    <CustomField20FromParent>False</CustomField20FromParent>
-    <ParentID>a8bae26f-b3d6-41a8-afec-8eea99654c5d</ParentID>
-    <ObjectSpecialUsage />
-    <PreConnectTaskName />
-    <PostDisconnectTaskName />
-    <KeySequenceName />
   </RoyalSSHConnection>
   <RoyalSSHConnection>
     <ID>8c5fcd8a-8c12-4274-afa2-5a5079a95fcd</ID>
@@ -1430,6 +1845,27 @@
     <CursorAppearance>0</CursorAppearance>
     <CursorColor>#ffffff</CursorColor>
     <CursorTextColor>#000000</CursorTextColor>
+    <CustomField1>172.31.31.142</CustomField1>
+    <CustomField10FromParent>False</CustomField10FromParent>
+    <CustomField11FromParent>False</CustomField11FromParent>
+    <CustomField12FromParent>False</CustomField12FromParent>
+    <CustomField13FromParent>False</CustomField13FromParent>
+    <CustomField14FromParent>False</CustomField14FromParent>
+    <CustomField15FromParent>False</CustomField15FromParent>
+    <CustomField16FromParent>False</CustomField16FromParent>
+    <CustomField17FromParent>False</CustomField17FromParent>
+    <CustomField18FromParent>False</CustomField18FromParent>
+    <CustomField19FromParent>False</CustomField19FromParent>
+    <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField20FromParent>False</CustomField20FromParent>
+    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField3FromParent>False</CustomField3FromParent>
+    <CustomField4FromParent>False</CustomField4FromParent>
+    <CustomField5FromParent>False</CustomField5FromParent>
+    <CustomField6FromParent>False</CustomField6FromParent>
+    <CustomField7FromParent>False</CustomField7FromParent>
+    <CustomField8FromParent>False</CustomField8FromParent>
+    <CustomField9FromParent>False</CustomField9FromParent>
     <CustomImageList>{}</CustomImageList>
     <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
     <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
@@ -1447,6 +1883,7 @@
     <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
     <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
     <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
     <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
     <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
     <EnableBlinkingText>False</EnableBlinkingText>
@@ -1488,56 +1925,6 @@
     <TerminalRows>24</TerminalRows>
     <URI>52.205.9.196</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
-    <Description />
-    <PhysicalAddress />
-    <CustomImageName />
-    <CustomImage />
-    <Color />
-    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
-    <CustomProperties />
-    <CustomField1>172.31.31.142</CustomField1>
-    <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2 />
-    <CustomField2FromParent>False</CustomField2FromParent>
-    <CustomField3 />
-    <CustomField3FromParent>False</CustomField3FromParent>
-    <CustomField4 />
-    <CustomField4FromParent>False</CustomField4FromParent>
-    <CustomField5 />
-    <CustomField5FromParent>False</CustomField5FromParent>
-    <CustomField6 />
-    <CustomField6FromParent>False</CustomField6FromParent>
-    <CustomField7 />
-    <CustomField7FromParent>False</CustomField7FromParent>
-    <CustomField8 />
-    <CustomField8FromParent>False</CustomField8FromParent>
-    <CustomField9 />
-    <CustomField9FromParent>False</CustomField9FromParent>
-    <CustomField10 />
-    <CustomField10FromParent>False</CustomField10FromParent>
-    <CustomField11 />
-    <CustomField11FromParent>False</CustomField11FromParent>
-    <CustomField12 />
-    <CustomField12FromParent>False</CustomField12FromParent>
-    <CustomField13 />
-    <CustomField13FromParent>False</CustomField13FromParent>
-    <CustomField14 />
-    <CustomField14FromParent>False</CustomField14FromParent>
-    <CustomField15 />
-    <CustomField15FromParent>False</CustomField15FromParent>
-    <CustomField16 />
-    <CustomField16FromParent>False</CustomField16FromParent>
-    <CustomField17 />
-    <CustomField17FromParent>False</CustomField17FromParent>
-    <CustomField18 />
-    <CustomField18FromParent>False</CustomField18FromParent>
-    <CustomField19 />
-    <CustomField19FromParent>False</CustomField19FromParent>
-    <CustomField20 />
-    <CustomField20FromParent>False</CustomField20FromParent>
-    <PreConnectTaskName />
-    <PostDisconnectTaskName />
-    <KeySequenceName />
   </RoyalSSHConnection>
   <RoyalSSHConnection>
     <ID>7b3edf30-93a2-4fdc-ac03-9af3830cca09</ID>
@@ -1564,6 +1951,27 @@
     <CursorAppearance>0</CursorAppearance>
     <CursorColor>#ffffff</CursorColor>
     <CursorTextColor>#000000</CursorTextColor>
+    <CustomField1>172.31.20.122</CustomField1>
+    <CustomField10FromParent>False</CustomField10FromParent>
+    <CustomField11FromParent>False</CustomField11FromParent>
+    <CustomField12FromParent>False</CustomField12FromParent>
+    <CustomField13FromParent>False</CustomField13FromParent>
+    <CustomField14FromParent>False</CustomField14FromParent>
+    <CustomField15FromParent>False</CustomField15FromParent>
+    <CustomField16FromParent>False</CustomField16FromParent>
+    <CustomField17FromParent>False</CustomField17FromParent>
+    <CustomField18FromParent>False</CustomField18FromParent>
+    <CustomField19FromParent>False</CustomField19FromParent>
+    <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField20FromParent>False</CustomField20FromParent>
+    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField3FromParent>False</CustomField3FromParent>
+    <CustomField4FromParent>False</CustomField4FromParent>
+    <CustomField5FromParent>False</CustomField5FromParent>
+    <CustomField6FromParent>False</CustomField6FromParent>
+    <CustomField7FromParent>False</CustomField7FromParent>
+    <CustomField8FromParent>False</CustomField8FromParent>
+    <CustomField9FromParent>False</CustomField9FromParent>
     <CustomImageList>{}</CustomImageList>
     <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
     <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
@@ -1581,6 +1989,7 @@
     <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
     <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
     <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
     <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
     <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
     <EnableBlinkingText>False</EnableBlinkingText>
@@ -1605,6 +2014,7 @@
     <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
     <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
     <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <ParentID>a8bae26f-b3d6-41a8-afec-8eea99654c5d</ParentID>
     <Port>38022</Port>
     <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
     <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
@@ -1621,58 +2031,6 @@
     <TerminalRows>24</TerminalRows>
     <URI>52.205.9.196</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
-    <Description />
-    <PhysicalAddress />
-    <CustomImageName />
-    <CustomImage />
-    <Color />
-    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
-    <CustomProperties />
-    <CustomField1>172.31.20.122</CustomField1>
-    <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2 />
-    <CustomField2FromParent>False</CustomField2FromParent>
-    <CustomField3 />
-    <CustomField3FromParent>False</CustomField3FromParent>
-    <CustomField4 />
-    <CustomField4FromParent>False</CustomField4FromParent>
-    <CustomField5 />
-    <CustomField5FromParent>False</CustomField5FromParent>
-    <CustomField6 />
-    <CustomField6FromParent>False</CustomField6FromParent>
-    <CustomField7 />
-    <CustomField7FromParent>False</CustomField7FromParent>
-    <CustomField8 />
-    <CustomField8FromParent>False</CustomField8FromParent>
-    <CustomField9 />
-    <CustomField9FromParent>False</CustomField9FromParent>
-    <CustomField10 />
-    <CustomField10FromParent>False</CustomField10FromParent>
-    <CustomField11 />
-    <CustomField11FromParent>False</CustomField11FromParent>
-    <CustomField12 />
-    <CustomField12FromParent>False</CustomField12FromParent>
-    <CustomField13 />
-    <CustomField13FromParent>False</CustomField13FromParent>
-    <CustomField14 />
-    <CustomField14FromParent>False</CustomField14FromParent>
-    <CustomField15 />
-    <CustomField15FromParent>False</CustomField15FromParent>
-    <CustomField16 />
-    <CustomField16FromParent>False</CustomField16FromParent>
-    <CustomField17 />
-    <CustomField17FromParent>False</CustomField17FromParent>
-    <CustomField18 />
-    <CustomField18FromParent>False</CustomField18FromParent>
-    <CustomField19 />
-    <CustomField19FromParent>False</CustomField19FromParent>
-    <CustomField20 />
-    <CustomField20FromParent>False</CustomField20FromParent>
-    <ParentID>a8bae26f-b3d6-41a8-afec-8eea99654c5d</ParentID>
-    <ObjectSpecialUsage />
-    <PreConnectTaskName />
-    <PostDisconnectTaskName />
-    <KeySequenceName />
   </RoyalSSHConnection>
   <RoyalSSHConnection>
     <ID>fd2a4b4a-3558-4a7c-a96b-d0661b58bcd3</ID>
@@ -1699,6 +2057,27 @@
     <CursorAppearance>0</CursorAppearance>
     <CursorColor>#ffffff</CursorColor>
     <CursorTextColor>#000000</CursorTextColor>
+    <CustomField1>172.31.13.4</CustomField1>
+    <CustomField10FromParent>False</CustomField10FromParent>
+    <CustomField11FromParent>False</CustomField11FromParent>
+    <CustomField12FromParent>False</CustomField12FromParent>
+    <CustomField13FromParent>False</CustomField13FromParent>
+    <CustomField14FromParent>False</CustomField14FromParent>
+    <CustomField15FromParent>False</CustomField15FromParent>
+    <CustomField16FromParent>False</CustomField16FromParent>
+    <CustomField17FromParent>False</CustomField17FromParent>
+    <CustomField18FromParent>False</CustomField18FromParent>
+    <CustomField19FromParent>False</CustomField19FromParent>
+    <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField20FromParent>False</CustomField20FromParent>
+    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField3FromParent>False</CustomField3FromParent>
+    <CustomField4FromParent>False</CustomField4FromParent>
+    <CustomField5FromParent>False</CustomField5FromParent>
+    <CustomField6FromParent>False</CustomField6FromParent>
+    <CustomField7FromParent>False</CustomField7FromParent>
+    <CustomField8FromParent>False</CustomField8FromParent>
+    <CustomField9FromParent>False</CustomField9FromParent>
     <CustomImageList>{}</CustomImageList>
     <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
     <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
@@ -1716,6 +2095,7 @@
     <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
     <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
     <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
     <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
     <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
     <EnableBlinkingText>False</EnableBlinkingText>
@@ -1740,6 +2120,7 @@
     <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
     <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
     <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <ParentID>a8bae26f-b3d6-41a8-afec-8eea99654c5d</ParentID>
     <Port>38022</Port>
     <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
     <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
@@ -1756,58 +2137,6 @@
     <TerminalRows>24</TerminalRows>
     <URI>52.205.9.196</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
-    <Description />
-    <PhysicalAddress />
-    <CustomImageName />
-    <CustomImage />
-    <Color />
-    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
-    <CustomProperties />
-    <CustomField1>172.31.13.4</CustomField1>
-    <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2 />
-    <CustomField2FromParent>False</CustomField2FromParent>
-    <CustomField3 />
-    <CustomField3FromParent>False</CustomField3FromParent>
-    <CustomField4 />
-    <CustomField4FromParent>False</CustomField4FromParent>
-    <CustomField5 />
-    <CustomField5FromParent>False</CustomField5FromParent>
-    <CustomField6 />
-    <CustomField6FromParent>False</CustomField6FromParent>
-    <CustomField7 />
-    <CustomField7FromParent>False</CustomField7FromParent>
-    <CustomField8 />
-    <CustomField8FromParent>False</CustomField8FromParent>
-    <CustomField9 />
-    <CustomField9FromParent>False</CustomField9FromParent>
-    <CustomField10 />
-    <CustomField10FromParent>False</CustomField10FromParent>
-    <CustomField11 />
-    <CustomField11FromParent>False</CustomField11FromParent>
-    <CustomField12 />
-    <CustomField12FromParent>False</CustomField12FromParent>
-    <CustomField13 />
-    <CustomField13FromParent>False</CustomField13FromParent>
-    <CustomField14 />
-    <CustomField14FromParent>False</CustomField14FromParent>
-    <CustomField15 />
-    <CustomField15FromParent>False</CustomField15FromParent>
-    <CustomField16 />
-    <CustomField16FromParent>False</CustomField16FromParent>
-    <CustomField17 />
-    <CustomField17FromParent>False</CustomField17FromParent>
-    <CustomField18 />
-    <CustomField18FromParent>False</CustomField18FromParent>
-    <CustomField19 />
-    <CustomField19FromParent>False</CustomField19FromParent>
-    <CustomField20 />
-    <CustomField20FromParent>False</CustomField20FromParent>
-    <ParentID>a8bae26f-b3d6-41a8-afec-8eea99654c5d</ParentID>
-    <ObjectSpecialUsage />
-    <PreConnectTaskName />
-    <PostDisconnectTaskName />
-    <KeySequenceName />
   </RoyalSSHConnection>
   <RoyalFolder>
     <ID>3ae8d9a2-0693-438f-92d4-94838ab56e8f</ID>
@@ -1852,6 +2181,26 @@
     <PrivateKeyPath>/Users/hujia/.ssh/desk/id_rsa</PrivateKeyPath>
     <UserName>jhu</UserName>
   </RoyalCredential>
+  <RoyalCredential>
+    <ID>47892632-9c2e-450f-b856-dc8c31904d31</ID>
+    <Name>password(devops)</Name>
+    <Modified>05/20/2021 08:46:32.756</Modified>
+    <Created>05/20/2021 08:36:16.465</Created>
+    <ModifiedBy>hujia</ModifiedBy>
+    <CreatedBy>hujia</CreatedBy>
+    <PositionNr>6</PositionNr>
+    <ParentID>3ae8d9a2-0693-438f-92d4-94838ab56e8f</ParentID>
+    <UserName>devops</UserName>
+    <Password>mpfW/2wssMLEv+h19vNEl7eUilC84O/GwSy0UVWviFLfHyc546HBY6qKg6QCzUEtWwcpziv/DLiniC6cXW8AQN1A+odZrCCN2Wg8fOLfYvg=</Password>
+    <Description />
+    <CustomImageName />
+    <CustomImageList>{}</CustomImageList>
+    <CustomImage />
+    <ColorFromParent>False</ColorFromParent>
+    <ColorName />
+    <Color />
+    <Favorite>False</Favorite>
+  </RoyalCredential>
   <RoyalFolder>
     <ID>dfcc95f0-e9fd-45d2-a8ac-1ceeab1363d3</ID>
     <Name>Tasks</Name>
@@ -1883,7 +2232,7 @@
   <RoyalKeySequenceTask>
     <ID>15f6cfdd-81dd-48f2-90f2-19c42e08907b</ID>
     <Name>跳板机-线上机器</Name>
-    <Modified>05/19/2021 08:50:32.117</Modified>
+    <Modified>05/20/2021 08:03:17.487</Modified>
     <Created>05/07/2021 07:45:25.957</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -1895,13 +2244,14 @@
     <KeySequence>. ssh-agent.sh{ENTER}
 {WAIT:100}ssh $CustomField1$
 {WAIT:100}sudo su www-data
-{WAIT:100}cd /var/www/http/cmscronjob-prod{ENTER}</KeySequence>
+$CustomField2$</KeySequence>
     <NoConfirmationRequired>True</NoConfirmationRequired>
     <ParentID>dfcc95f0-e9fd-45d2-a8ac-1ceeab1363d3</ParentID>
     <ShowInFavoriteTasks>False</ShowInFavoriteTasks>
     <Description />
     <CustomImageName />
     <CustomImage />
+    <ColorName />
     <Color />
   </RoyalKeySequenceTask>
   <RoyalKeySequenceTask>
@@ -1931,7 +2281,28 @@
     <CreatedBy>hujia</CreatedBy>
     <PositionNr>8</PositionNr>
     <ColorFromParent>False</ColorFromParent>
+    <CustomField10FromParent>False</CustomField10FromParent>
+    <CustomField11FromParent>False</CustomField11FromParent>
+    <CustomField12FromParent>False</CustomField12FromParent>
+    <CustomField13FromParent>False</CustomField13FromParent>
+    <CustomField14FromParent>False</CustomField14FromParent>
+    <CustomField15FromParent>False</CustomField15FromParent>
+    <CustomField16FromParent>False</CustomField16FromParent>
+    <CustomField17FromParent>False</CustomField17FromParent>
+    <CustomField18FromParent>False</CustomField18FromParent>
+    <CustomField19FromParent>False</CustomField19FromParent>
+    <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField20FromParent>False</CustomField20FromParent>
+    <CustomField2FromParent>False</CustomField2FromParent>
+    <CustomField3FromParent>False</CustomField3FromParent>
+    <CustomField4FromParent>False</CustomField4FromParent>
+    <CustomField5FromParent>False</CustomField5FromParent>
+    <CustomField6FromParent>False</CustomField6FromParent>
+    <CustomField7FromParent>False</CustomField7FromParent>
+    <CustomField8FromParent>False</CustomField8FromParent>
+    <CustomField9FromParent>False</CustomField9FromParent>
     <CustomImageList>{}</CustomImageList>
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
     <ExecutionMode>0</ExecutionMode>
     <Favorite>False</Favorite>
     <KeySequence>. ssh-agent.sh
@@ -1941,51 +2312,28 @@
     <NoConfirmationRequired>True</NoConfirmationRequired>
     <ParentID>dfcc95f0-e9fd-45d2-a8ac-1ceeab1363d3</ParentID>
     <ShowInFavoriteTasks>False</ShowInFavoriteTasks>
+  </RoyalKeySequenceTask>
+  <RoyalKeySequenceTask>
+    <ID>c9f3bae8-f549-4944-8752-7fccf5acb611</ID>
+    <Name>网站测试机</Name>
+    <Modified>05/20/2021 08:47:26.886</Modified>
+    <Created>05/20/2021 08:41:38.227</Created>
+    <ModifiedBy>hujia</ModifiedBy>
+    <CreatedBy>hujia</CreatedBy>
+    <PositionNr>10</PositionNr>
+    <ParentID>dfcc95f0-e9fd-45d2-a8ac-1ceeab1363d3</ParentID>
     <Description />
+    <ExecutionMode>0</ExecutionMode>
+    <NoConfirmationRequired>True</NoConfirmationRequired>
     <CustomImageName />
+    <CustomImageList>{}</CustomImageList>
     <CustomImage />
+    <ColorFromParent>False</ColorFromParent>
+    <ColorName />
     <Color />
-    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
-    <CustomProperties />
-    <CustomField1 />
-    <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2 />
-    <CustomField2FromParent>False</CustomField2FromParent>
-    <CustomField3 />
-    <CustomField3FromParent>False</CustomField3FromParent>
-    <CustomField4 />
-    <CustomField4FromParent>False</CustomField4FromParent>
-    <CustomField5 />
-    <CustomField5FromParent>False</CustomField5FromParent>
-    <CustomField6 />
-    <CustomField6FromParent>False</CustomField6FromParent>
-    <CustomField7 />
-    <CustomField7FromParent>False</CustomField7FromParent>
-    <CustomField8 />
-    <CustomField8FromParent>False</CustomField8FromParent>
-    <CustomField9 />
-    <CustomField9FromParent>False</CustomField9FromParent>
-    <CustomField10 />
-    <CustomField10FromParent>False</CustomField10FromParent>
-    <CustomField11 />
-    <CustomField11FromParent>False</CustomField11FromParent>
-    <CustomField12 />
-    <CustomField12FromParent>False</CustomField12FromParent>
-    <CustomField13 />
-    <CustomField13FromParent>False</CustomField13FromParent>
-    <CustomField14 />
-    <CustomField14FromParent>False</CustomField14FromParent>
-    <CustomField15 />
-    <CustomField15FromParent>False</CustomField15FromParent>
-    <CustomField16 />
-    <CustomField16FromParent>False</CustomField16FromParent>
-    <CustomField17 />
-    <CustomField17FromParent>False</CustomField17FromParent>
-    <CustomField18 />
-    <CustomField18FromParent>False</CustomField18FromParent>
-    <CustomField19 />
-    <CustomField19FromParent>False</CustomField19FromParent>
-    <CustomField20 />
-    <CustomField20FromParent>False</CustomField20FromParent>
+    <KeySequence>{WAIT:100}ssh $CustomField1$
+{WAIT:100}cd /var/www/web/fdapi/{ENTER}</KeySequence>
+    <ShowInFavoriteTasks>False</ShowInFavoriteTasks>
+    <Favorite>False</Favorite>
   </RoyalKeySequenceTask>
 </RTSZDocument>
