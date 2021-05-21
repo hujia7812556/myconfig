@@ -53,6 +53,12 @@ proxies:
   type: ss
   cipher: chacha20-ietf-poly1305
   password: qK4WEobTeeBS
+- name: "\U0001F1F9\U0001F1FC CN9-TW"
+  server: cn8.monolink.net
+  port: 995
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: qK4WEobTeeBS
 - name: "\U0001F1FA\U0001F1F8 CN10-US"
   server: cn10.monolink.net
   port: 590
@@ -77,6 +83,7 @@ proxy-groups:
   - "\U0001F1ED\U0001F1F0 CN6-HK"
   - "\U0001F1ED\U0001F1F0 CN7-HK"
   - "\U0001F1F9\U0001F1FC CN8-TW"
+  - "\U0001F1F9\U0001F1FC CN9-TW"
   - "\U0001F1FA\U0001F1F8 CN10-US"
   - "\U0001F1FA\U0001F1F8 CN11-US"
 - name: MATCH
@@ -96,6 +103,7 @@ proxy-groups:
   - "\U0001F1ED\U0001F1F0 CN6-HK"
   - "\U0001F1ED\U0001F1F0 CN7-HK"
   - "\U0001F1F9\U0001F1FC CN8-TW"
+  - "\U0001F1F9\U0001F1FC CN9-TW"
   - "\U0001F1FA\U0001F1F8 CN10-US"
   - "\U0001F1FA\U0001F1F8 CN11-US"
 - name: StreamingSE
@@ -110,6 +118,7 @@ proxy-groups:
   - "\U0001F1ED\U0001F1F0 CN6-HK"
   - "\U0001F1ED\U0001F1F0 CN7-HK"
   - "\U0001F1F9\U0001F1FC CN8-TW"
+  - "\U0001F1F9\U0001F1FC CN9-TW"
   - "\U0001F1FA\U0001F1F8 CN10-US"
   - "\U0001F1FA\U0001F1F8 CN11-US"
 rules:
