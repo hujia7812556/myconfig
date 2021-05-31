@@ -176,28 +176,56 @@
     <CreatedBy>hujia</CreatedBy>
     <PositionNr>8</PositionNr>
     <IsConnectionTemplate>False</IsConnectionTemplate>
-    <BackColor>0</BackColor>
-    <BlinkCursor>False</BlinkCursor>
-    <BoldColor>14</BoldColor>
-    <ColorFromParent>False</ColorFromParent>
+    <ParentID>8ff63cb6-6428-42a8-8290-83f637340dee</ParentID>
+    <ObjectSpecialUsage />
+    <URI>192.168.0.16</URI>
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
+    <CustomProperties />
+    <CredentialPassword />
+    <CredentialPassphrase />
+    <Passphrase />
+    <ProxyPassword />
     <ConnectionType>ssh;SSH</ConnectionType>
-    <CredentialAutologon>True</CredentialAutologon>
-    <CredentialFromParent>False</CredentialFromParent>
-    <CredentialId>47892632-9c2e-450f-b856-dc8c31904d31</CredentialId>
-    <CredentialKeyMode>0</CredentialKeyMode>
-    <CredentialMode>3</CredentialMode>
-    <CredentialOmitDomain>False</CredentialOmitDomain>
-    <CursorAppearance>0</CursorAppearance>
-    <CursorColor>#ffffff</CursorColor>
-    <CursorTextColor>#000000</CursorTextColor>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <Port>22</Port>
+    <Description />
+    <PhysicalAddress />
+    <CustomImageName />
     <CustomImageList>{}</CustomImageList>
+    <CustomImage />
+    <ColorFromParent>False</ColorFromParent>
+    <ColorName />
+    <Color />
+    <Favorite>False</Favorite>
+    <CursorAppearance>0</CursorAppearance>
+    <BlinkCursor>False</BlinkCursor>
+    <FontOSX>Monaco</FontOSX>
+    <FontSizeOSX>11</FontSizeOSX>
+    <FontAntiAliasOSX>True</FontAntiAliasOSX>
+    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
+    <NonAsciiFontOSX>Monaco</NonAsciiFontOSX>
+    <NonAsciiFontSizeOSX>11</NonAsciiFontSizeOSX>
+    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
+    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
+    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <TerminalColumns>80</TerminalColumns>
+    <TerminalRows>24</TerminalRows>
+    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
+    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
+    <EnableBlinkingText>False</EnableBlinkingText>
+    <EnableItalicText>True</EnableItalicText>
     <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
-    <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
-    <CustomPalette11BrightYellow>#ffff55</CustomPalette11BrightYellow>
-    <CustomPalette12BrightBlue>#5555ff</CustomPalette12BrightBlue>
-    <CustomPalette13BrightMagenta>#ff55ff</CustomPalette13BrightMagenta>
-    <CustomPalette14BrightCyan>#55ffff</CustomPalette14BrightCyan>
-    <CustomPalette15BrightWhite>#ffffff</CustomPalette15BrightWhite>
     <CustomPalette1NormalRed>#bb0000</CustomPalette1NormalRed>
     <CustomPalette2NormalGreen>#00bb00</CustomPalette2NormalGreen>
     <CustomPalette3NormalYellow>#bbbb00</CustomPalette3NormalYellow>
@@ -207,32 +235,34 @@
     <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
     <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
     <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
-    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
-    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
-    <EnableBlinkingText>False</EnableBlinkingText>
-    <EnableItalicText>True</EnableItalicText>
-    <Favorite>False</Favorite>
-    <FontAntiAliasOSX>True</FontAntiAliasOSX>
-    <FontOSX>Monaco</FontOSX>
-    <FontSizeOSX>11</FontSizeOSX>
-    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
+    <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
+    <CustomPalette11BrightYellow>#ffff55</CustomPalette11BrightYellow>
+    <CustomPalette12BrightBlue>#5555ff</CustomPalette12BrightBlue>
+    <CustomPalette13BrightMagenta>#ff55ff</CustomPalette13BrightMagenta>
+    <CustomPalette14BrightCyan>#55ffff</CustomPalette14BrightCyan>
+    <CustomPalette15BrightWhite>#ffffff</CustomPalette15BrightWhite>
+    <SmartCursorColor>True</SmartCursorColor>
+    <BackColor>0</BackColor>
+    <BackColorOSX />
     <ForeColor>7</ForeColor>
-    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
-    <IsSerialPortConnection>False</IsSerialPortConnection>
-    <IsTelnetConnection>False</IsTelnetConnection>
-    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
-    <NonAsciiFontOSX>Monaco</NonAsciiFontOSX>
-    <NonAsciiFontSizeOSX>11</NonAsciiFontSizeOSX>
-    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
-    <ParentID>8ff63cb6-6428-42a8-8290-83f637340dee</ParentID>
-    <Port>22</Port>
+    <ForeColorOSX />
+    <BoldColor>14</BoldColor>
+    <BoldColorOSX />
     <SelectionColor>#555555</SelectionColor>
     <SelectionTextColor>#ffffff</SelectionTextColor>
-    <SmartCursorColor>True</SmartCursorColor>
-    <TerminalColumns>80</TerminalColumns>
-    <TerminalRows>24</TerminalRows>
-    <URI>192.168.0.16</URI>
-    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <CursorColor>#ffffff</CursorColor>
+    <CursorTextColor>#000000</CursorTextColor>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialMode>3</CredentialMode>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialUsername />
+    <CredentialId>47892632-9c2e-450f-b856-dc8c31904d31</CredentialId>
+    <CredentialName />
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialKeyFile />
+    <PrivateKeyPath />
+    <CredentialKeyContent />
   </RoyalSSHConnection>
   <RoyalFolder>
     <ID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ID>
@@ -666,7 +696,7 @@
   <RoyalSSHConnection>
     <ID>ae45818a-1ddc-47d1-967b-d53be5584fce</ID>
     <Name>跳板机-线上(有DB隧道) </Name>
-    <Modified>05/27/2021 09:25:31.037</Modified>
+    <Modified>05/13/2021 08:09:31.184</Modified>
     <Created>05/07/2021 07:52:05.718</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -742,17 +772,11 @@
     <SelectionColor>#555555</SelectionColor>
     <SelectionTextColor>#ffffff</SelectionTextColor>
     <SmartCursorColor>True</SmartCursorColor>
-    <SSHForwardedPorts>L39115=master.fdrds.zone:3306,L39141=fdrdsslave1-cluster.cxgqf9klhfbh.us-east-1.rds.amazonaws.com:3306,</SSHForwardedPorts>
+    <SSHForwardedPorts>L39141=fdrdsslave6.cxgqf9klhfbh.us-east-1.rds.amazonaws.com:3306,L39115=master.fdrds.zone:3306,</SSHForwardedPorts>
     <TerminalColumns>80</TerminalColumns>
     <TerminalRows>24</TerminalRows>
     <URI>deployer-vb.opvalue.com</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
-    <Description />
-    <PhysicalAddress />
-    <CustomImageName />
-    <CustomImage />
-    <ColorName />
-    <Color />
   </RoyalSSHConnection>
   <RoyalFolder>
     <ID>81484e8f-758e-4ad5-b1a0-20f6e039c5bb</ID>
@@ -802,7 +826,6 @@
     <CustomField18FromParent>False</CustomField18FromParent>
     <CustomField19FromParent>False</CustomField19FromParent>
     <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2>{WAIT:100}cd /var/www/http/cmscronjob-prod{ENTER}</CustomField2>
     <CustomField20FromParent>False</CustomField20FromParent>
     <CustomField2FromParent>False</CustomField2FromParent>
     <CustomField3FromParent>False</CustomField3FromParent>
@@ -829,7 +852,6 @@
     <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
     <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
     <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
-    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
     <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
     <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
     <EnableBlinkingText>False</EnableBlinkingText>
@@ -871,6 +893,33 @@
     <TerminalRows>24</TerminalRows>
     <URI>52.205.9.196</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <Description />
+    <PhysicalAddress />
+    <CustomImageName />
+    <CustomImage />
+    <ColorName />
+    <Color />
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
+    <CustomProperties />
+    <CustomField2>{WAIT:100}cd /var/www/http/cmscronjob-prod{ENTER}</CustomField2>
+    <CustomField3 />
+    <CustomField4 />
+    <CustomField5 />
+    <CustomField6 />
+    <CustomField7 />
+    <CustomField8 />
+    <CustomField9 />
+    <CustomField10 />
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
   </RoyalSSHConnection>
   <RoyalSSHConnection>
     <ID>e6da6353-dcb4-4e01-9954-5a614241ab10</ID>
@@ -909,7 +958,6 @@
     <CustomField18FromParent>False</CustomField18FromParent>
     <CustomField19FromParent>False</CustomField19FromParent>
     <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2>{WAIT:100}cd /var/www/http/cmscronjob-prod{ENTER}</CustomField2>
     <CustomField20FromParent>False</CustomField20FromParent>
     <CustomField2FromParent>False</CustomField2FromParent>
     <CustomField3FromParent>False</CustomField3FromParent>
@@ -977,6 +1025,31 @@
     <TerminalRows>24</TerminalRows>
     <URI>52.205.9.196</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <Description />
+    <PhysicalAddress />
+    <CustomImageName />
+    <CustomImage />
+    <ColorName />
+    <Color />
+    <CustomField2>{WAIT:100}cd /var/www/http/cmscronjob-prod{ENTER}</CustomField2>
+    <CustomField3 />
+    <CustomField4 />
+    <CustomField5 />
+    <CustomField6 />
+    <CustomField7 />
+    <CustomField8 />
+    <CustomField9 />
+    <CustomField10 />
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
   </RoyalSSHConnection>
   <RoyalSSHConnection>
     <ID>df56d9aa-3f54-4c16-8ad0-4e1c42e72f98</ID>
@@ -1015,7 +1088,6 @@
     <CustomField18FromParent>False</CustomField18FromParent>
     <CustomField19FromParent>False</CustomField19FromParent>
     <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2>{WAIT:100}cd /var/www/http/fdeditor-prod{ENTER}</CustomField2>
     <CustomField20FromParent>False</CustomField20FromParent>
     <CustomField2FromParent>False</CustomField2FromParent>
     <CustomField3FromParent>False</CustomField3FromParent>
@@ -1066,7 +1138,6 @@
     <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
     <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
     <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
-    <ParentID>81484e8f-758e-4ad5-b1a0-20f6e039c5bb</ParentID>
     <Port>38022</Port>
     <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
     <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
@@ -1083,6 +1154,33 @@
     <TerminalRows>24</TerminalRows>
     <URI>52.205.9.196</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <ParentID>81484e8f-758e-4ad5-b1a0-20f6e039c5bb</ParentID>
+    <ObjectSpecialUsage />
+    <Description />
+    <PhysicalAddress />
+    <CustomImageName />
+    <CustomImage />
+    <ColorName />
+    <Color />
+    <CustomField2>{WAIT:100}cd /var/www/http/fdeditor-prod{ENTER}</CustomField2>
+    <CustomField3 />
+    <CustomField4 />
+    <CustomField5 />
+    <CustomField6 />
+    <CustomField7 />
+    <CustomField8 />
+    <CustomField9 />
+    <CustomField10 />
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
   </RoyalSSHConnection>
   <RoyalFolder>
     <ID>120781d7-509a-42d6-9380-4d738d504a1f</ID>
@@ -1094,6 +1192,20 @@
     <PositionNr>16</PositionNr>
     <IsExpanded>True</IsExpanded>
     <ParentID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ParentID>
+    <ObjectSpecialUsage />
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
+    <CustomProperties />
+    <CredentialPassword />
+    <CredentialPassphrase />
   </RoyalFolder>
   <RoyalSSHConnection>
     <ID>6132fa9e-6ac6-466b-a660-e12f9061082b</ID>
@@ -1158,7 +1270,6 @@
     <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
     <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
     <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
-    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
     <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
     <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
     <EnableBlinkingText>False</EnableBlinkingText>
@@ -1183,7 +1294,6 @@
     <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
     <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
     <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
-    <ParentID>120781d7-509a-42d6-9380-4d738d504a1f</ParentID>
     <Port>22</Port>
     <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
     <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
@@ -1200,6 +1310,44 @@
     <TerminalRows>24</TerminalRows>
     <URI>192.168.0.16</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <Description />
+    <PhysicalAddress />
+    <CustomImageName />
+    <CustomImage />
+    <ColorName />
+    <Color />
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
+    <CustomProperties />
+    <CustomField2 />
+    <CustomField3 />
+    <CustomField4 />
+    <CustomField5 />
+    <CustomField6 />
+    <CustomField7 />
+    <CustomField8 />
+    <CustomField9 />
+    <CustomField10 />
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
+    <ParentID>120781d7-509a-42d6-9380-4d738d504a1f</ParentID>
+    <ObjectSpecialUsage />
+    <CredentialName />
+    <CredentialKeyFile />
+    <PrivateKeyPath />
+    <CredentialKeyContent />
+    <CredentialPassphrase />
+    <Passphrase />
+    <PreConnectTaskName />
+    <PostDisconnectTaskName />
+    <KeySequenceName />
   </RoyalSSHConnection>
   <RoyalSSHConnection>
     <ID>fd95cdfc-a354-4fd6-a9db-0d337fd028f9</ID>
@@ -1264,7 +1412,6 @@
     <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
     <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
     <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
-    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
     <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
     <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
     <EnableBlinkingText>False</EnableBlinkingText>
@@ -1289,7 +1436,6 @@
     <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
     <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
     <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
-    <ParentID>120781d7-509a-42d6-9380-4d738d504a1f</ParentID>
     <Port>22</Port>
     <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
     <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
@@ -1306,6 +1452,44 @@
     <TerminalRows>24</TerminalRows>
     <URI>192.168.0.16</URI>
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+    <Description />
+    <PhysicalAddress />
+    <CustomImageName />
+    <CustomImage />
+    <ColorName />
+    <Color />
+    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
+    <CustomProperties />
+    <CustomField2 />
+    <CustomField3 />
+    <CustomField4 />
+    <CustomField5 />
+    <CustomField6 />
+    <CustomField7 />
+    <CustomField8 />
+    <CustomField9 />
+    <CustomField10 />
+    <CustomField11 />
+    <CustomField12 />
+    <CustomField13 />
+    <CustomField14 />
+    <CustomField15 />
+    <CustomField16 />
+    <CustomField17 />
+    <CustomField18 />
+    <CustomField19 />
+    <CustomField20 />
+    <CredentialName />
+    <CredentialKeyFile />
+    <PrivateKeyPath />
+    <CredentialKeyContent />
+    <CredentialPassphrase />
+    <Passphrase />
+    <PreConnectTaskName />
+    <PostDisconnectTaskName />
+    <KeySequenceName />
+    <ParentID>120781d7-509a-42d6-9380-4d738d504a1f</ParentID>
+    <ObjectSpecialUsage />
   </RoyalSSHConnection>
   <RoyalFolder>
     <ID>a8bae26f-b3d6-41a8-afec-8eea99654c5d</ID>
@@ -2005,12 +2189,17 @@
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
     <PositionNr>6</PositionNr>
-    <ColorFromParent>False</ColorFromParent>
-    <CustomImageList>{}</CustomImageList>
-    <Favorite>False</Favorite>
     <ParentID>3ae8d9a2-0693-438f-92d4-94838ab56e8f</ParentID>
-    <Password>mpfW/2wssMLEv+h19vNEl7eUilC84O/GwSy0UVWviFLfHyc546HBY6qKg6QCzUEtWwcpziv/DLiniC6cXW8AQN1A+odZrCCN2Wg8fOLfYvg=</Password>
     <UserName>devops</UserName>
+    <Password>mpfW/2wssMLEv+h19vNEl7eUilC84O/GwSy0UVWviFLfHyc546HBY6qKg6QCzUEtWwcpziv/DLiniC6cXW8AQN1A+odZrCCN2Wg8fOLfYvg=</Password>
+    <Description />
+    <CustomImageName />
+    <CustomImageList>{}</CustomImageList>
+    <CustomImage />
+    <ColorFromParent>False</ColorFromParent>
+    <ColorName />
+    <Color />
+    <Favorite>False</Favorite>
   </RoyalCredential>
   <RoyalFolder>
     <ID>dfcc95f0-e9fd-45d2-a8ac-1ceeab1363d3</ID>
@@ -2059,6 +2248,11 @@ $CustomField2$</KeySequence>
     <NoConfirmationRequired>True</NoConfirmationRequired>
     <ParentID>dfcc95f0-e9fd-45d2-a8ac-1ceeab1363d3</ParentID>
     <ShowInFavoriteTasks>False</ShowInFavoriteTasks>
+    <Description />
+    <CustomImageName />
+    <CustomImage />
+    <ColorName />
+    <Color />
   </RoyalKeySequenceTask>
   <RoyalKeySequenceTask>
     <ID>8d891249-33aa-4969-9115-ebe7d76fb258</ID>
@@ -2127,14 +2321,19 @@ $CustomField2$</KeySequence>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
     <PositionNr>10</PositionNr>
-    <ColorFromParent>False</ColorFromParent>
-    <CustomImageList>{}</CustomImageList>
+    <ParentID>dfcc95f0-e9fd-45d2-a8ac-1ceeab1363d3</ParentID>
+    <Description />
     <ExecutionMode>0</ExecutionMode>
-    <Favorite>False</Favorite>
+    <NoConfirmationRequired>True</NoConfirmationRequired>
+    <CustomImageName />
+    <CustomImageList>{}</CustomImageList>
+    <CustomImage />
+    <ColorFromParent>False</ColorFromParent>
+    <ColorName />
+    <Color />
     <KeySequence>{WAIT:100}ssh $CustomField1$
 {WAIT:100}cd /var/www/web/fdapi/{ENTER}</KeySequence>
-    <NoConfirmationRequired>True</NoConfirmationRequired>
-    <ParentID>dfcc95f0-e9fd-45d2-a8ac-1ceeab1363d3</ParentID>
     <ShowInFavoriteTasks>False</ShowInFavoriteTasks>
+    <Favorite>False</Favorite>
   </RoyalKeySequenceTask>
 </RTSZDocument>
