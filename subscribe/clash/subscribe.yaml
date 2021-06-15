@@ -71,6 +71,12 @@ proxies:
   type: ss
   cipher: chacha20-ietf-poly1305
   password: qK4WEobTeeBS
+- name: "\U0001F1F8\U0001F1EC SG1"
+  server: sg1.monolink.net
+  port: 587
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: qK4WEobTeeBS
 proxy-groups:
 - name: Proxy
   type: select
@@ -86,6 +92,7 @@ proxy-groups:
   - "\U0001F1F9\U0001F1FC CN9-TW"
   - "\U0001F1FA\U0001F1F8 CN10-US"
   - "\U0001F1FA\U0001F1F8 CN11-US"
+  - "\U0001F1F8\U0001F1EC SG1"
 - name: MATCH
   type: select
   proxies:
@@ -106,6 +113,7 @@ proxy-groups:
   - "\U0001F1F9\U0001F1FC CN9-TW"
   - "\U0001F1FA\U0001F1F8 CN10-US"
   - "\U0001F1FA\U0001F1F8 CN11-US"
+  - "\U0001F1F8\U0001F1EC SG1"
 - name: StreamingSE
   type: select
   proxies:
@@ -121,10 +129,12 @@ proxy-groups:
   - "\U0001F1F9\U0001F1FC CN9-TW"
   - "\U0001F1FA\U0001F1F8 CN10-US"
   - "\U0001F1FA\U0001F1F8 CN11-US"
+  - "\U0001F1F8\U0001F1EC SG1"
 rules:
 - DOMAIN-SUFFIX,v2ex.com,Proxy
 - DOMAIN,cdn.v2ex.com,Streaming
 - DOMAIN-SUFFIX,gravatar.com,Proxy
+- DOMAIN-SUFFIX,bitmart.com,Proxy
 - DOMAIN,goo.gl,Proxy
 - DOMAIN,app.adjust.com,DIRECT
 - DOMAIN,bdtj.tagtic.cn,DIRECT
