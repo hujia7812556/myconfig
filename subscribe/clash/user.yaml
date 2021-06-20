@@ -3,4 +3,5 @@ rules:
  - DOMAIN,cdn.v2ex.com,Streaming
  - DOMAIN-SUFFIX,gravatar.com,Proxy
  - DOMAIN-SUFFIX,bitmart.com,Proxy
+ - DOMAIN-SUFFIX,cloudfront.net,Proxy
  - DOMAIN,goo.gl,Proxy
