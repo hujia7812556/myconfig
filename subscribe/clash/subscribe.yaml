@@ -136,7 +136,7 @@ rules:
 - DOMAIN-SUFFIX,gravatar.com,Proxy
 - DOMAIN-SUFFIX,bitmart.com,Proxy
 - DOMAIN-SUFFIX,cloudfront.net,Proxy
-- DOMAIN,jira.abcrender.com:8080,Direct
+- DOMAIN,jira.abcrender.com:8080,DIRECT
 - DOMAIN,goo.gl,Proxy
 - DOMAIN,app.adjust.com,DIRECT
 - DOMAIN,bdtj.tagtic.cn,DIRECT
