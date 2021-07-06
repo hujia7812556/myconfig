@@ -9,8 +9,10 @@ class Update:
     userConfigFileName = os.path.split(os.path.realpath(__file__))[0] + '/user.yaml'
     outConfigFileName = os.path.split(os.path.realpath(__file__))[0] + '/subscribe.yaml'
     proxies = {
-        "http": "http://127.0.0.1:1080",
-        "https": "http://127.0.0.1:1080",
+        #"http": "http://127.0.0.1:1080",
+        #"https": "http://127.0.0.1:1080",
+        "http": "socks5://127.0.0.1:1080",
+        "https": "socks5://127.0.0.1:1080",
     }
 
     def run(self):
