@@ -4,5 +4,5 @@ rules:
  - DOMAIN-SUFFIX,gravatar.com,Proxy
  - DOMAIN-SUFFIX,bitmart.com,Proxy
  - DOMAIN-SUFFIX,cloudfront.net,Proxy
- - DOMAIN-SUFFIX,jira.abcrender.com,DIRECT
+ - DOMAIN-SUFFIX,monocloud.me,Proxy
  - DOMAIN,goo.gl,Proxy
