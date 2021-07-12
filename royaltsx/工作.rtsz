@@ -2,7 +2,7 @@
 <RTSZDocument>
   <RoyalDocument>
     <ID>2fe02874-967c-45ae-bfaf-b3eaf0a6307a</ID>
-    <Modified>06/18/2021 09:57:26.302</Modified>
+    <Modified>07/08/2021 11:10:15.268</Modified>
     <ModifiedBy>hujia</ModifiedBy>
     <Name>工作</Name>
     <Created>05/07/2021 07:20:32.772</Created>
@@ -13,7 +13,7 @@
     <AutoSaveAfterChange>False</AutoSaveAfterChange>
     <AutoSaveOnClose>False</AutoSaveOnClose>
     <ColorFromParent>False</ColorFromParent>
-    <DeletedObjectHistory>ccf76da1-a2d6-41b2-ad70-3ad1720b4c77;15477774-4e48-4026-8213-e47dc94ea9ae;e6cac53d-50fc-438d-9e16-dcad2919747c;afe741c6-b825-4616-90a5-52ec9b7c4eb5;62c3b915-757e-4a95-b4c6-734e5eabcb8c;90342bbe-1618-4a79-a530-a250e9b4f25d;866e9c98-7d92-4c37-8494-1b272ad757e2;fd98413c-1eab-4ae7-8769-ccce4c7522aa</DeletedObjectHistory>
+    <DeletedObjectHistory>ccf76da1-a2d6-41b2-ad70-3ad1720b4c77;15477774-4e48-4026-8213-e47dc94ea9ae;e6cac53d-50fc-438d-9e16-dcad2919747c;afe741c6-b825-4616-90a5-52ec9b7c4eb5;62c3b915-757e-4a95-b4c6-734e5eabcb8c;90342bbe-1618-4a79-a530-a250e9b4f25d;866e9c98-7d92-4c37-8494-1b272ad757e2;fd98413c-1eab-4ae7-8769-ccce4c7522aa;ca265048-90dd-4632-9dfb-2cf50412a746;9c714d62-d65d-4d46-8cba-27104aa977cb;5d9160a5-2f90-4e27-892a-7195f9dd1d33</DeletedObjectHistory>
     <DocumentType>Workspace</DocumentType>
     <SaveOption>2</SaveOption>
   </RoyalDocument>
@@ -28,286 +28,6 @@
     <IsExpanded>False</IsExpanded>
     <ParentID>2fe02874-967c-45ae-bfaf-b3eaf0a6307a</ParentID>
   </RoyalTrash>
-  <RoyalSSHConnection>
-    <ID>ca265048-90dd-4632-9dfb-2cf50412a746</ID>
-    <Name>ft50</Name>
-    <Modified>05/20/2021 08:37:47.789</Modified>
-    <Created>05/20/2021 08:35:40.141</Created>
-    <ModifiedBy>hujia</ModifiedBy>
-    <CreatedBy>hujia</CreatedBy>
-    <PositionNr>2</PositionNr>
-    <IsConnectionTemplate>False</IsConnectionTemplate>
-    <BackColor>0</BackColor>
-    <BlinkCursor>False</BlinkCursor>
-    <BoldColor>14</BoldColor>
-    <ColorFromParent>False</ColorFromParent>
-    <ConnectionType>ssh;SSH</ConnectionType>
-    <CredentialAutologon>True</CredentialAutologon>
-    <CredentialFromParent>False</CredentialFromParent>
-    <CredentialId>47892632-9c2e-450f-b856-dc8c31904d31</CredentialId>
-    <CredentialKeyMode>0</CredentialKeyMode>
-    <CredentialMode>3</CredentialMode>
-    <CredentialOmitDomain>False</CredentialOmitDomain>
-    <CursorAppearance>0</CursorAppearance>
-    <CursorColor>#ffffff</CursorColor>
-    <CursorTextColor>#000000</CursorTextColor>
-    <CustomImageList>{}</CustomImageList>
-    <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
-    <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
-    <CustomPalette11BrightYellow>#ffff55</CustomPalette11BrightYellow>
-    <CustomPalette12BrightBlue>#5555ff</CustomPalette12BrightBlue>
-    <CustomPalette13BrightMagenta>#ff55ff</CustomPalette13BrightMagenta>
-    <CustomPalette14BrightCyan>#55ffff</CustomPalette14BrightCyan>
-    <CustomPalette15BrightWhite>#ffffff</CustomPalette15BrightWhite>
-    <CustomPalette1NormalRed>#bb0000</CustomPalette1NormalRed>
-    <CustomPalette2NormalGreen>#00bb00</CustomPalette2NormalGreen>
-    <CustomPalette3NormalYellow>#bbbb00</CustomPalette3NormalYellow>
-    <CustomPalette4NormalBlue>#0000bb</CustomPalette4NormalBlue>
-    <CustomPalette5NormalMagenta>#bb00bb</CustomPalette5NormalMagenta>
-    <CustomPalette6NormalCyan>#00bbbb</CustomPalette6NormalCyan>
-    <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
-    <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
-    <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
-    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
-    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
-    <EnableBlinkingText>False</EnableBlinkingText>
-    <EnableItalicText>True</EnableItalicText>
-    <Favorite>False</Favorite>
-    <FontAntiAliasOSX>True</FontAntiAliasOSX>
-    <FontOSX>Monaco</FontOSX>
-    <FontSizeOSX>11</FontSizeOSX>
-    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
-    <ForeColor>7</ForeColor>
-    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
-    <IsSerialPortConnection>False</IsSerialPortConnection>
-    <IsTelnetConnection>False</IsTelnetConnection>
-    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
-    <NonAsciiFontOSX>Monaco</NonAsciiFontOSX>
-    <NonAsciiFontSizeOSX>11</NonAsciiFontSizeOSX>
-    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
-    <ParentID>8ff63cb6-6428-42a8-8290-83f637340dee</ParentID>
-    <Port>22</Port>
-    <SelectionColor>#555555</SelectionColor>
-    <SelectionTextColor>#ffffff</SelectionTextColor>
-    <SmartCursorColor>True</SmartCursorColor>
-    <TerminalColumns>80</TerminalColumns>
-    <TerminalRows>24</TerminalRows>
-    <URI>192.168.0.16</URI>
-    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
-  </RoyalSSHConnection>
-  <RoyalSSHConnection>
-    <ID>9c714d62-d65d-4d46-8cba-27104aa977cb</ID>
-    <Name>后台</Name>
-    <Modified>06/04/2021 02:54:08.124</Modified>
-    <Created>06/04/2021 02:53:02.468</Created>
-    <ModifiedBy>hujia</ModifiedBy>
-    <CreatedBy>hujia</CreatedBy>
-    <PositionNr>4</PositionNr>
-    <IsConnectionTemplate>False</IsConnectionTemplate>
-    <BackColor>0</BackColor>
-    <BlinkCursor>False</BlinkCursor>
-    <BoldColor>14</BoldColor>
-    <ColorFromParent>False</ColorFromParent>
-    <ConnectionType>ssh;SSH</ConnectionType>
-    <CredentialAutologon>True</CredentialAutologon>
-    <CredentialFromParent>False</CredentialFromParent>
-    <CredentialId>f3d3cc37-260a-4f7b-8ea6-2c1664aecc39</CredentialId>
-    <CredentialKeyMode>0</CredentialKeyMode>
-    <CredentialMode>3</CredentialMode>
-    <CredentialOmitDomain>False</CredentialOmitDomain>
-    <CredentialPassword>OreXeA/14jVSTAnFq+A22iIedhd5ErSdRF77FSWYPuY77Tdy5wusiyugAdC9e5xaXOl0C2X8TwV6WE2kuIMUB/qD12/62qipyD03deANfZs=</CredentialPassword>
-    <CredentialUsername>devops</CredentialUsername>
-    <CursorAppearance>0</CursorAppearance>
-    <CursorColor>#ffffff</CursorColor>
-    <CursorTextColor>#000000</CursorTextColor>
-    <CustomField1>172.31.31.246</CustomField1>
-    <CustomField10FromParent>False</CustomField10FromParent>
-    <CustomField11FromParent>False</CustomField11FromParent>
-    <CustomField12FromParent>False</CustomField12FromParent>
-    <CustomField13FromParent>False</CustomField13FromParent>
-    <CustomField14FromParent>False</CustomField14FromParent>
-    <CustomField15FromParent>False</CustomField15FromParent>
-    <CustomField16FromParent>False</CustomField16FromParent>
-    <CustomField17FromParent>False</CustomField17FromParent>
-    <CustomField18FromParent>False</CustomField18FromParent>
-    <CustomField19FromParent>False</CustomField19FromParent>
-    <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField2>{WAIT:100}cd /var/www/http/cmscronjob-prod{ENTER}</CustomField2>
-    <CustomField20FromParent>False</CustomField20FromParent>
-    <CustomField2FromParent>False</CustomField2FromParent>
-    <CustomField3FromParent>False</CustomField3FromParent>
-    <CustomField4FromParent>False</CustomField4FromParent>
-    <CustomField5FromParent>False</CustomField5FromParent>
-    <CustomField6FromParent>False</CustomField6FromParent>
-    <CustomField7FromParent>False</CustomField7FromParent>
-    <CustomField8FromParent>False</CustomField8FromParent>
-    <CustomField9FromParent>False</CustomField9FromParent>
-    <CustomImageList>{}</CustomImageList>
-    <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
-    <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
-    <CustomPalette11BrightYellow>#ffff55</CustomPalette11BrightYellow>
-    <CustomPalette12BrightBlue>#5555ff</CustomPalette12BrightBlue>
-    <CustomPalette13BrightMagenta>#ff55ff</CustomPalette13BrightMagenta>
-    <CustomPalette14BrightCyan>#55ffff</CustomPalette14BrightCyan>
-    <CustomPalette15BrightWhite>#ffffff</CustomPalette15BrightWhite>
-    <CustomPalette1NormalRed>#bb0000</CustomPalette1NormalRed>
-    <CustomPalette2NormalGreen>#00bb00</CustomPalette2NormalGreen>
-    <CustomPalette3NormalYellow>#bbbb00</CustomPalette3NormalYellow>
-    <CustomPalette4NormalBlue>#0000bb</CustomPalette4NormalBlue>
-    <CustomPalette5NormalMagenta>#bb00bb</CustomPalette5NormalMagenta>
-    <CustomPalette6NormalCyan>#00bbbb</CustomPalette6NormalCyan>
-    <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
-    <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
-    <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
-    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
-    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
-    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
-    <EnableBlinkingText>False</EnableBlinkingText>
-    <EnableItalicText>True</EnableItalicText>
-    <EnableLoggingOSX>False</EnableLoggingOSX>
-    <Favorite>False</Favorite>
-    <FontAntiAliasOSX>True</FontAntiAliasOSX>
-    <FontOSX>Inconsolata-Regular</FontOSX>
-    <FontSizeOSX>24</FontSizeOSX>
-    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
-    <ForeColor>7</ForeColor>
-    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
-    <IsSerialPortConnection>False</IsSerialPortConnection>
-    <IsTelnetConnection>False</IsTelnetConnection>
-    <iTermTriggers>{\{"Action":"ScriptTrigger","Regex":"\\\\*\\\\*B00000000000000","Parameter":"/usr/local/bin/iterm2-recv-zmodem.sh","PartialLine":true}};{\{"Action":"ScriptTrigger","Regex":"rz waiting to receive.\\\\*\\\\*B0100","Parameter":"/usr/local/bin/iterm2-send-zmodem.sh","PartialLine":true}}</iTermTriggers>
-    <KeySequence>. ssh-agent.sh{ENTER}</KeySequence>
-    <KeySequenceEnabled>True</KeySequenceEnabled>
-    <KeySequenceFromParent>False</KeySequenceFromParent>
-    <KeySequenceId>15f6cfdd-81dd-48f2-90f2-19c42e08907b</KeySequenceId>
-    <KeySequenceMode>1</KeySequenceMode>
-    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
-    <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
-    <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
-    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
-    <ParentID>8ff63cb6-6428-42a8-8290-83f637340dee</ParentID>
-    <Port>38022</Port>
-    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
-    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
-    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
-    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
-    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
-    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
-    <PreConnectTaskMode>1</PreConnectTaskMode>
-    <PreConnectTaskWait>False</PreConnectTaskWait>
-    <SelectionColor>#555555</SelectionColor>
-    <SelectionTextColor>#ffffff</SelectionTextColor>
-    <SmartCursorColor>True</SmartCursorColor>
-    <TerminalColumns>80</TerminalColumns>
-    <TerminalRows>24</TerminalRows>
-    <URI>52.205.9.196</URI>
-    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
-  </RoyalSSHConnection>
-  <RoyalSSHConnection>
-    <ID>5d9160a5-2f90-4e27-892a-7195f9dd1d33</ID>
-    <Name>通用search copy</Name>
-    <Modified>06/04/2021 02:54:58.961</Modified>
-    <Created>06/04/2021 02:54:11.498</Created>
-    <ModifiedBy>hujia</ModifiedBy>
-    <CreatedBy>hujia</CreatedBy>
-    <PositionNr>6</PositionNr>
-    <IsConnectionTemplate>False</IsConnectionTemplate>
-    <BackColor>0</BackColor>
-    <BlinkCursor>False</BlinkCursor>
-    <BoldColor>14</BoldColor>
-    <ColorFromParent>False</ColorFromParent>
-    <ConnectionType>ssh;SSH</ConnectionType>
-    <CredentialAutologon>True</CredentialAutologon>
-    <CredentialFromParent>False</CredentialFromParent>
-    <CredentialId>f3d3cc37-260a-4f7b-8ea6-2c1664aecc39</CredentialId>
-    <CredentialKeyMode>0</CredentialKeyMode>
-    <CredentialMode>3</CredentialMode>
-    <CredentialOmitDomain>False</CredentialOmitDomain>
-    <CredentialPassword>OreXeA/14jVSTAnFq+A22iIedhd5ErSdRF77FSWYPuY77Tdy5wusiyugAdC9e5xaXOl0C2X8TwV6WE2kuIMUB/qD12/62qipyD03deANfZs=</CredentialPassword>
-    <CredentialUsername>devops</CredentialUsername>
-    <CursorAppearance>0</CursorAppearance>
-    <CursorColor>#ffffff</CursorColor>
-    <CursorTextColor>#000000</CursorTextColor>
-    <CustomField1>172.31.30.179</CustomField1>
-    <CustomField10FromParent>False</CustomField10FromParent>
-    <CustomField11FromParent>False</CustomField11FromParent>
-    <CustomField12FromParent>False</CustomField12FromParent>
-    <CustomField13FromParent>False</CustomField13FromParent>
-    <CustomField14FromParent>False</CustomField14FromParent>
-    <CustomField15FromParent>False</CustomField15FromParent>
-    <CustomField16FromParent>False</CustomField16FromParent>
-    <CustomField17FromParent>False</CustomField17FromParent>
-    <CustomField18FromParent>False</CustomField18FromParent>
-    <CustomField19FromParent>False</CustomField19FromParent>
-    <CustomField1FromParent>False</CustomField1FromParent>
-    <CustomField20FromParent>False</CustomField20FromParent>
-    <CustomField2FromParent>False</CustomField2FromParent>
-    <CustomField3FromParent>False</CustomField3FromParent>
-    <CustomField4FromParent>False</CustomField4FromParent>
-    <CustomField5FromParent>False</CustomField5FromParent>
-    <CustomField6FromParent>False</CustomField6FromParent>
-    <CustomField7FromParent>False</CustomField7FromParent>
-    <CustomField8FromParent>False</CustomField8FromParent>
-    <CustomField9FromParent>False</CustomField9FromParent>
-    <CustomImageList>{}</CustomImageList>
-    <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
-    <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
-    <CustomPalette11BrightYellow>#ffff55</CustomPalette11BrightYellow>
-    <CustomPalette12BrightBlue>#5555ff</CustomPalette12BrightBlue>
-    <CustomPalette13BrightMagenta>#ff55ff</CustomPalette13BrightMagenta>
-    <CustomPalette14BrightCyan>#55ffff</CustomPalette14BrightCyan>
-    <CustomPalette15BrightWhite>#ffffff</CustomPalette15BrightWhite>
-    <CustomPalette1NormalRed>#bb0000</CustomPalette1NormalRed>
-    <CustomPalette2NormalGreen>#00bb00</CustomPalette2NormalGreen>
-    <CustomPalette3NormalYellow>#bbbb00</CustomPalette3NormalYellow>
-    <CustomPalette4NormalBlue>#0000bb</CustomPalette4NormalBlue>
-    <CustomPalette5NormalMagenta>#bb00bb</CustomPalette5NormalMagenta>
-    <CustomPalette6NormalCyan>#00bbbb</CustomPalette6NormalCyan>
-    <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
-    <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
-    <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
-    <CustomPropertiesFromParent>False</CustomPropertiesFromParent>
-    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
-    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
-    <EnableBlinkingText>False</EnableBlinkingText>
-    <EnableItalicText>True</EnableItalicText>
-    <EnableLoggingOSX>False</EnableLoggingOSX>
-    <Favorite>False</Favorite>
-    <FontAntiAliasOSX>True</FontAntiAliasOSX>
-    <FontOSX>Inconsolata-Regular</FontOSX>
-    <FontSizeOSX>24</FontSizeOSX>
-    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
-    <ForeColor>7</ForeColor>
-    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
-    <IsSerialPortConnection>False</IsSerialPortConnection>
-    <IsTelnetConnection>False</IsTelnetConnection>
-    <iTermTriggers>{\{"Action":"ScriptTrigger","Regex":"rz waiting to receive.\\\\*\\\\*B0100","Parameter":"/usr/local/bin/iterm2-send-zmodem.sh","PartialLine":true}};{\{"Action":"ScriptTrigger","Regex":"\\\\*\\\\*B00000000000000","Parameter":"/usr/local/bin/iterm2-recv-zmodem.sh","PartialLine":true}}</iTermTriggers>
-    <KeySequence>. ssh-agent.sh{ENTER}</KeySequence>
-    <KeySequenceEnabled>True</KeySequenceEnabled>
-    <KeySequenceFromParent>False</KeySequenceFromParent>
-    <KeySequenceId>1d345da5-8096-4d0e-9299-1524245891e4</KeySequenceId>
-    <KeySequenceMode>1</KeySequenceMode>
-    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
-    <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
-    <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
-    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
-    <ParentID>8ff63cb6-6428-42a8-8290-83f637340dee</ParentID>
-    <Port>38022</Port>
-    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
-    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
-    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
-    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
-    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
-    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
-    <PreConnectTaskMode>1</PreConnectTaskMode>
-    <PreConnectTaskWait>False</PreConnectTaskWait>
-    <SelectionColor>#555555</SelectionColor>
-    <SelectionTextColor>#ffffff</SelectionTextColor>
-    <SmartCursorColor>True</SmartCursorColor>
-    <TerminalColumns>80</TerminalColumns>
-    <TerminalRows>24</TerminalRows>
-    <URI>52.205.9.196</URI>
-    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
-  </RoyalSSHConnection>
   <RoyalFolder>
     <ID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ID>
     <Name>Connections</Name>
@@ -570,97 +290,13 @@
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
   </RoyalSSHConnection>
   <RoyalSSHConnection>
-    <ID>61e10f3a-89f0-42fc-ad60-04665f7c1cbc</ID>
-    <Name>发布机</Name>
-    <Modified>06/11/2021 06:35:24.161</Modified>
-    <Created>05/07/2021 07:56:51.015</Created>
-    <ModifiedBy>hujia</ModifiedBy>
-    <CreatedBy>hujia</CreatedBy>
-    <PositionNr>8</PositionNr>
-    <IsConnectionTemplate>False</IsConnectionTemplate>
-    <BackColor>0</BackColor>
-    <BlinkCursor>False</BlinkCursor>
-    <BoldColor>14</BoldColor>
-    <ColorFromParent>False</ColorFromParent>
-    <ConnectionType>ssh;SSH</ConnectionType>
-    <CredentialAutologon>True</CredentialAutologon>
-    <CredentialFromParent>False</CredentialFromParent>
-    <CredentialId>f3d3cc37-260a-4f7b-8ea6-2c1664aecc39</CredentialId>
-    <CredentialKeyMode>0</CredentialKeyMode>
-    <CredentialMode>3</CredentialMode>
-    <CredentialOmitDomain>False</CredentialOmitDomain>
-    <CredentialPassword>4ShiK0TzAVU5o+TXxZBb9ou0h/B5ZKMT/5Y3Ow6+MLmCHKoZx/y7HvyEPwq8xl7IJ5TBdTrh6MIoUaMwboonDQ0W8jGuU5PivZ5DckuRHd0=</CredentialPassword>
-    <CredentialUsername>devops</CredentialUsername>
-    <CursorAppearance>0</CursorAppearance>
-    <CursorColor>#ffffff</CursorColor>
-    <CursorTextColor>#000000</CursorTextColor>
-    <CustomImageList>{}</CustomImageList>
-    <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
-    <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
-    <CustomPalette11BrightYellow>#ffff55</CustomPalette11BrightYellow>
-    <CustomPalette12BrightBlue>#5555ff</CustomPalette12BrightBlue>
-    <CustomPalette13BrightMagenta>#ff55ff</CustomPalette13BrightMagenta>
-    <CustomPalette14BrightCyan>#55ffff</CustomPalette14BrightCyan>
-    <CustomPalette15BrightWhite>#ffffff</CustomPalette15BrightWhite>
-    <CustomPalette1NormalRed>#bb0000</CustomPalette1NormalRed>
-    <CustomPalette2NormalGreen>#00bb00</CustomPalette2NormalGreen>
-    <CustomPalette3NormalYellow>#bbbb00</CustomPalette3NormalYellow>
-    <CustomPalette4NormalBlue>#0000bb</CustomPalette4NormalBlue>
-    <CustomPalette5NormalMagenta>#bb00bb</CustomPalette5NormalMagenta>
-    <CustomPalette6NormalCyan>#00bbbb</CustomPalette6NormalCyan>
-    <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
-    <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
-    <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
-    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
-    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
-    <EnableBlinkingText>False</EnableBlinkingText>
-    <EnableItalicText>True</EnableItalicText>
-    <EnableLoggingOSX>False</EnableLoggingOSX>
-    <Favorite>False</Favorite>
-    <FontAntiAliasOSX>True</FontAntiAliasOSX>
-    <FontOSX>Inconsolata-Regular</FontOSX>
-    <FontSizeOSX>24</FontSizeOSX>
-    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
-    <ForeColor>7</ForeColor>
-    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
-    <IsSerialPortConnection>False</IsSerialPortConnection>
-    <IsTelnetConnection>False</IsTelnetConnection>
-    <iTermTriggers>{\{"Action":"ScriptTrigger","Regex":"rz waiting to receive.\\\\*\\\\*B0100","Parameter":"/usr/local/bin/iterm2-send-zmodem.sh","PartialLine":true}};{\{"Action":"ScriptTrigger","Regex":"\\\\*\\\\*B00000000000000","Parameter":"/usr/local/bin/iterm2-recv-zmodem.sh","PartialLine":true}}</iTermTriggers>
-    <KeySequence>. ssh-agent.sh{ENTER}</KeySequence>
-    <KeySequenceEnabled>True</KeySequenceEnabled>
-    <KeySequenceFromParent>False</KeySequenceFromParent>
-    <KeySequenceId>8d891249-33aa-4969-9115-ebe7d76fb258</KeySequenceId>
-    <KeySequenceMode>1</KeySequenceMode>
-    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
-    <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
-    <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
-    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
-    <ParentID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ParentID>
-    <Port>38022</Port>
-    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
-    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
-    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
-    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
-    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
-    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
-    <PreConnectTaskMode>1</PreConnectTaskMode>
-    <PreConnectTaskWait>False</PreConnectTaskWait>
-    <SelectionColor>#555555</SelectionColor>
-    <SelectionTextColor>#ffffff</SelectionTextColor>
-    <SmartCursorColor>True</SmartCursorColor>
-    <TerminalColumns>80</TerminalColumns>
-    <TerminalRows>24</TerminalRows>
-    <URI>34.235.27.239</URI>
-    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
-  </RoyalSSHConnection>
-  <RoyalSSHConnection>
     <ID>dcafe9fd-12d4-4709-af8a-6f9a2f0d30bf</ID>
     <Name>跳板机-线上(jumpserver)</Name>
-    <Modified>06/11/2021 06:35:24.161</Modified>
+    <Modified>06/23/2021 08:17:58.529</Modified>
     <Created>05/07/2021 07:43:38.158</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
-    <PositionNr>10</PositionNr>
+    <PositionNr>8</PositionNr>
     <IsConnectionTemplate>False</IsConnectionTemplate>
     <BackColor>0</BackColor>
     <BlinkCursor>False</BlinkCursor>
@@ -740,11 +376,11 @@
   <RoyalSSHConnection>
     <ID>88e78222-de1f-4b99-b70f-9f14f28f19da</ID>
     <Name>跳板机-线上(可修改配置文件)</Name>
-    <Modified>06/11/2021 06:35:24.161</Modified>
+    <Modified>06/23/2021 08:17:58.529</Modified>
     <Created>05/07/2021 07:49:36.144</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
-    <PositionNr>12</PositionNr>
+    <PositionNr>10</PositionNr>
     <IsConnectionTemplate>False</IsConnectionTemplate>
     <BackColor>0</BackColor>
     <BlinkCursor>False</BlinkCursor>
@@ -822,9 +458,93 @@
     <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
   </RoyalSSHConnection>
   <RoyalSSHConnection>
+    <ID>61e10f3a-89f0-42fc-ad60-04665f7c1cbc</ID>
+    <Name>发布机</Name>
+    <Modified>06/23/2021 08:17:58.529</Modified>
+    <Created>05/07/2021 07:56:51.015</Created>
+    <ModifiedBy>hujia</ModifiedBy>
+    <CreatedBy>hujia</CreatedBy>
+    <PositionNr>12</PositionNr>
+    <IsConnectionTemplate>False</IsConnectionTemplate>
+    <BackColor>0</BackColor>
+    <BlinkCursor>False</BlinkCursor>
+    <BoldColor>14</BoldColor>
+    <ColorFromParent>False</ColorFromParent>
+    <ConnectionType>ssh;SSH</ConnectionType>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialId>f3d3cc37-260a-4f7b-8ea6-2c1664aecc39</CredentialId>
+    <CredentialKeyMode>0</CredentialKeyMode>
+    <CredentialMode>3</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>4ShiK0TzAVU5o+TXxZBb9ou0h/B5ZKMT/5Y3Ow6+MLmCHKoZx/y7HvyEPwq8xl7IJ5TBdTrh6MIoUaMwboonDQ0W8jGuU5PivZ5DckuRHd0=</CredentialPassword>
+    <CredentialUsername>devops</CredentialUsername>
+    <CursorAppearance>0</CursorAppearance>
+    <CursorColor>#ffffff</CursorColor>
+    <CursorTextColor>#000000</CursorTextColor>
+    <CustomImageList>{}</CustomImageList>
+    <CustomPalette0NormalBlack>#000000</CustomPalette0NormalBlack>
+    <CustomPalette10BrightGreen>#55ff55</CustomPalette10BrightGreen>
+    <CustomPalette11BrightYellow>#ffff55</CustomPalette11BrightYellow>
+    <CustomPalette12BrightBlue>#5555ff</CustomPalette12BrightBlue>
+    <CustomPalette13BrightMagenta>#ff55ff</CustomPalette13BrightMagenta>
+    <CustomPalette14BrightCyan>#55ffff</CustomPalette14BrightCyan>
+    <CustomPalette15BrightWhite>#ffffff</CustomPalette15BrightWhite>
+    <CustomPalette1NormalRed>#bb0000</CustomPalette1NormalRed>
+    <CustomPalette2NormalGreen>#00bb00</CustomPalette2NormalGreen>
+    <CustomPalette3NormalYellow>#bbbb00</CustomPalette3NormalYellow>
+    <CustomPalette4NormalBlue>#0000bb</CustomPalette4NormalBlue>
+    <CustomPalette5NormalMagenta>#bb00bb</CustomPalette5NormalMagenta>
+    <CustomPalette6NormalCyan>#00bbbb</CustomPalette6NormalCyan>
+    <CustomPalette7NormalWhite>#bbbbbb</CustomPalette7NormalWhite>
+    <CustomPalette8BrightBlack>#555555</CustomPalette8BrightBlack>
+    <CustomPalette9BrightRed>#ff5555</CustomPalette9BrightRed>
+    <DrawBoldTextInBoldFont>True</DrawBoldTextInBoldFont>
+    <DrawBoldTextInBrightColors>True</DrawBoldTextInBrightColors>
+    <EnableBlinkingText>False</EnableBlinkingText>
+    <EnableItalicText>True</EnableItalicText>
+    <EnableLoggingOSX>False</EnableLoggingOSX>
+    <Favorite>False</Favorite>
+    <FontAntiAliasOSX>True</FontAntiAliasOSX>
+    <FontOSX>Inconsolata-Regular</FontOSX>
+    <FontSizeOSX>24</FontSizeOSX>
+    <FontUseLigaturesOSX>False</FontUseLigaturesOSX>
+    <ForeColor>7</ForeColor>
+    <HorizontalCharSpacingOSX>1</HorizontalCharSpacingOSX>
+    <IsSerialPortConnection>False</IsSerialPortConnection>
+    <IsTelnetConnection>False</IsTelnetConnection>
+    <iTermTriggers>{\{"Action":"ScriptTrigger","Regex":"rz waiting to receive.\\\\*\\\\*B0100","Parameter":"/usr/local/bin/iterm2-send-zmodem.sh","PartialLine":true}};{\{"Action":"ScriptTrigger","Regex":"\\\\*\\\\*B00000000000000","Parameter":"/usr/local/bin/iterm2-recv-zmodem.sh","PartialLine":true}}</iTermTriggers>
+    <KeySequence>. ssh-agent.sh{ENTER}</KeySequence>
+    <KeySequenceEnabled>True</KeySequenceEnabled>
+    <KeySequenceFromParent>False</KeySequenceFromParent>
+    <KeySequenceId>8d891249-33aa-4969-9115-ebe7d76fb258</KeySequenceId>
+    <KeySequenceMode>1</KeySequenceMode>
+    <NonAsciiFontAntiAliasOSX>True</NonAsciiFontAntiAliasOSX>
+    <NonAsciiFontOSX>Inconsolata-Regular</NonAsciiFontOSX>
+    <NonAsciiFontSizeOSX>24</NonAsciiFontSizeOSX>
+    <NonAsciiFontUseLigaturesOSX>False</NonAsciiFontUseLigaturesOSX>
+    <ParentID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ParentID>
+    <Port>38022</Port>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <SelectionColor>#555555</SelectionColor>
+    <SelectionTextColor>#ffffff</SelectionTextColor>
+    <SmartCursorColor>True</SmartCursorColor>
+    <TerminalColumns>80</TerminalColumns>
+    <TerminalRows>24</TerminalRows>
+    <URI>34.235.27.239</URI>
+    <VerticalCharSpacingOSX>1</VerticalCharSpacingOSX>
+  </RoyalSSHConnection>
+  <RoyalSSHConnection>
     <ID>ae45818a-1ddc-47d1-967b-d53be5584fce</ID>
     <Name>跳板机-线上(有DB隧道) </Name>
-    <Modified>06/11/2021 06:35:24.161</Modified>
+    <Modified>06/23/2021 08:17:58.529</Modified>
     <Created>05/07/2021 07:52:05.718</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -909,7 +629,7 @@
   <RoyalFolder>
     <ID>81484e8f-758e-4ad5-b1a0-20f6e039c5bb</ID>
     <Name>线上机器</Name>
-    <Modified>06/11/2021 06:35:24.161</Modified>
+    <Modified>06/23/2021 08:17:58.529</Modified>
     <Created>05/19/2021 08:52:32.985</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -1239,12 +959,12 @@
   <RoyalFolder>
     <ID>120781d7-509a-42d6-9380-4d738d504a1f</ID>
     <Name>网站测试环境</Name>
-    <Modified>06/11/2021 06:35:24.161</Modified>
+    <Modified>06/23/2021 08:17:58.529</Modified>
     <Created>05/20/2021 08:35:03.564</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
     <PositionNr>18</PositionNr>
-    <IsExpanded>False</IsExpanded>
+    <IsExpanded>True</IsExpanded>
     <ParentID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ParentID>
   </RoyalFolder>
   <RoyalSSHConnection>
@@ -1568,18 +1288,18 @@
   <RoyalFolder>
     <ID>a8bae26f-b3d6-41a8-afec-8eea99654c5d</ID>
     <Name>search</Name>
-    <Modified>06/11/2021 06:35:24.161</Modified>
+    <Modified>06/23/2021 08:17:58.529</Modified>
     <Created>05/14/2021 06:15:52.052</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
     <PositionNr>20</PositionNr>
-    <IsExpanded>False</IsExpanded>
+    <IsExpanded>True</IsExpanded>
     <ParentID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ParentID>
   </RoyalFolder>
   <RoyalSSHConnection>
     <ID>9ce8cf8d-f06d-48b8-8450-f42fd2f95030</ID>
     <Name>通用search</Name>
-    <Modified>05/14/2021 06:22:16.366</Modified>
+    <Modified>06/22/2021 11:41:00.794</Modified>
     <Created>05/07/2021 08:00:21.398</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -1613,6 +1333,7 @@
     <CustomField18FromParent>False</CustomField18FromParent>
     <CustomField19FromParent>False</CustomField19FromParent>
     <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField2>/var/www/web/websitesearch/</CustomField2>
     <CustomField20FromParent>False</CustomField20FromParent>
     <CustomField2FromParent>False</CustomField2FromParent>
     <CustomField3FromParent>False</CustomField3FromParent>
@@ -1685,7 +1406,7 @@
   <RoyalSSHConnection>
     <ID>219514ad-5d71-4216-93ec-0672a245eaa2</ID>
     <Name>通用search - 3</Name>
-    <Modified>06/04/2021 02:54:13.658</Modified>
+    <Modified>06/22/2021 11:41:18.095</Modified>
     <Created>05/14/2021 06:23:33.675</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -1702,7 +1423,7 @@
     <CredentialKeyMode>0</CredentialKeyMode>
     <CredentialMode>3</CredentialMode>
     <CredentialOmitDomain>False</CredentialOmitDomain>
-    <CredentialPassword>OreXeA/14jVSTAnFq+A22iIedhd5ErSdRF77FSWYPuY77Tdy5wusiyugAdC9e5xaXOl0C2X8TwV6WE2kuIMUB/qD12/62qipyD03deANfZs=</CredentialPassword>
+    <CredentialPassword>4muTemT/dhDPB4P2HT8t1uY8GcQFDHniUPf1R07PUJiCRROj4Oazn/fWfBSIpmxhphCA3BSglZdksCB4cG0L7EOnZgOORaDIk18Q3xezrFY=</CredentialPassword>
     <CredentialUsername>devops</CredentialUsername>
     <CursorAppearance>0</CursorAppearance>
     <CursorColor>#ffffff</CursorColor>
@@ -1719,6 +1440,7 @@
     <CustomField18FromParent>False</CustomField18FromParent>
     <CustomField19FromParent>False</CustomField19FromParent>
     <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField2>/var/www/web/websitesearch/</CustomField2>
     <CustomField20FromParent>False</CustomField20FromParent>
     <CustomField2FromParent>False</CustomField2FromParent>
     <CustomField3FromParent>False</CustomField3FromParent>
@@ -1791,7 +1513,7 @@
   <RoyalSSHConnection>
     <ID>598297ca-c71a-4a2f-b4a9-e6962a69efad</ID>
     <Name>通用search - 4</Name>
-    <Modified>06/04/2021 02:54:13.658</Modified>
+    <Modified>06/22/2021 11:41:27.881</Modified>
     <Created>05/14/2021 06:25:05.961</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -1825,6 +1547,7 @@
     <CustomField18FromParent>False</CustomField18FromParent>
     <CustomField19FromParent>False</CustomField19FromParent>
     <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField2>/var/www/web/websitesearch/</CustomField2>
     <CustomField20FromParent>False</CustomField20FromParent>
     <CustomField2FromParent>False</CustomField2FromParent>
     <CustomField3FromParent>False</CustomField3FromParent>
@@ -1897,7 +1620,7 @@
   <RoyalSSHConnection>
     <ID>8c5fcd8a-8c12-4274-afa2-5a5079a95fcd</ID>
     <Name>站群search</Name>
-    <Modified>06/04/2021 02:54:13.658</Modified>
+    <Modified>06/22/2021 11:41:45.627</Modified>
     <Created>05/07/2021 08:03:09.547</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -1931,6 +1654,7 @@
     <CustomField18FromParent>False</CustomField18FromParent>
     <CustomField19FromParent>False</CustomField19FromParent>
     <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField2>/var/www/http/fdapi-search-prod/bin</CustomField2>
     <CustomField20FromParent>False</CustomField20FromParent>
     <CustomField2FromParent>False</CustomField2FromParent>
     <CustomField3FromParent>False</CustomField3FromParent>
@@ -2003,7 +1727,7 @@
   <RoyalSSHConnection>
     <ID>7b3edf30-93a2-4fdc-ac03-9af3830cca09</ID>
     <Name>站群search - 3</Name>
-    <Modified>06/04/2021 02:54:13.658</Modified>
+    <Modified>06/22/2021 11:41:52.992</Modified>
     <Created>05/14/2021 06:25:28.025</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -2037,6 +1761,7 @@
     <CustomField18FromParent>False</CustomField18FromParent>
     <CustomField19FromParent>False</CustomField19FromParent>
     <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField2>/var/www/http/fdapi-search-prod/bin</CustomField2>
     <CustomField20FromParent>False</CustomField20FromParent>
     <CustomField2FromParent>False</CustomField2FromParent>
     <CustomField3FromParent>False</CustomField3FromParent>
@@ -2109,7 +1834,7 @@
   <RoyalSSHConnection>
     <ID>fd2a4b4a-3558-4a7c-a96b-d0661b58bcd3</ID>
     <Name>站群search - 4</Name>
-    <Modified>06/04/2021 02:54:13.658</Modified>
+    <Modified>06/22/2021 11:41:59.685</Modified>
     <Created>05/14/2021 06:25:39.334</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -2143,6 +1868,7 @@
     <CustomField18FromParent>False</CustomField18FromParent>
     <CustomField19FromParent>False</CustomField19FromParent>
     <CustomField1FromParent>False</CustomField1FromParent>
+    <CustomField2>/var/www/http/fdapi-search-prod/bin</CustomField2>
     <CustomField20FromParent>False</CustomField20FromParent>
     <CustomField2FromParent>False</CustomField2FromParent>
     <CustomField3FromParent>False</CustomField3FromParent>
@@ -2215,12 +1941,12 @@
   <RoyalFolder>
     <ID>146bec2f-7cb1-46ba-8813-e6ba3f023e57</ID>
     <Name>omnipotent</Name>
-    <Modified>06/11/2021 06:35:24.161</Modified>
+    <Modified>06/23/2021 08:17:58.529</Modified>
     <Created>05/31/2021 09:24:08.373</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
     <PositionNr>22</PositionNr>
-    <IsExpanded>False</IsExpanded>
+    <IsExpanded>True</IsExpanded>
     <ColorFromParent>False</ColorFromParent>
     <CustomImageList>{}</CustomImageList>
     <Favorite>False</Favorite>
@@ -2335,76 +2061,49 @@
   <RoyalRDSConnection>
     <ID>7575aaee-4007-4d4f-8f1a-dfb74e6ade9c</ID>
     <Name>台式机</Name>
-    <Modified>06/18/2021 10:04:31.759</Modified>
+    <Modified>06/23/2021 08:17:58.529</Modified>
     <Created>06/18/2021 09:57:26.286</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
     <PositionNr>24</PositionNr>
     <IsConnectionTemplate>False</IsConnectionTemplate>
-    <ParentID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ParentID>
-    <ObjectSpecialUsage />
-    <URI>172.16.0.18</URI>
-    <CustomField11 />
-    <CustomField12 />
-    <CustomField13 />
-    <CustomField14 />
-    <CustomField15 />
-    <CustomField16 />
-    <CustomField17 />
-    <CustomField18 />
-    <CustomField19 />
-    <CustomField20 />
-    <CustomProperties />
-    <CredentialPassword>m4sCpmE+LqWROUeQFvDfbbyH0nrmHPVTPqnyRStimwlTrnkI/Jy6lut0R2WRWjbaSnD1/fMTqFyoBKZJyQuuZEhS4bBSw+P0lFFyFwDQTsg=</CredentialPassword>
-    <CredentialPassphrase />
-    <GatewayPassword />
-    <ProxyPassword />
-    <RDPPort>3389</RDPPort>
-    <Description />
-    <PhysicalAddress />
-    <CustomImageName />
-    <CustomImageList>{}</CustomImageList>
-    <CustomImage />
-    <ColorFromParent>False</ColorFromParent>
-    <ColorName />
-    <Color />
-    <CredentialFromParent>False</CredentialFromParent>
-    <CredentialMode>2</CredentialMode>
-    <CredentialAutologon>True</CredentialAutologon>
-    <CredentialOmitDomain>False</CredentialOmitDomain>
-    <CredentialUsername>Administrator</CredentialUsername>
-    <CredentialId>47892632-9c2e-450f-b856-dc8c31904d31</CredentialId>
-    <CredentialName />
-    <Favorite>False</Favorite>
-    <ColorDepth>24</ColorDepth>
-    <UseRetinaResolution>False</UseRetinaResolution>
     <AutomaticallyCalculateScaleFactor>True</AutomaticallyCalculateScaleFactor>
-    <ScaleFactor>100</ScaleFactor>
-    <DesktopWidth>0</DesktopWidth>
+    <ColorDepth>24</ColorDepth>
+    <ColorFromParent>False</ColorFromParent>
+    <CredentialAutologon>True</CredentialAutologon>
+    <CredentialFromParent>False</CredentialFromParent>
+    <CredentialId>47892632-9c2e-450f-b856-dc8c31904d31</CredentialId>
+    <CredentialMode>2</CredentialMode>
+    <CredentialOmitDomain>False</CredentialOmitDomain>
+    <CredentialPassword>m4sCpmE+LqWROUeQFvDfbbyH0nrmHPVTPqnyRStimwlTrnkI/Jy6lut0R2WRWjbaSnD1/fMTqFyoBKZJyQuuZEhS4bBSw+P0lFFyFwDQTsg=</CredentialPassword>
+    <CredentialUsername>Administrator</CredentialUsername>
+    <CustomImageList>{}</CustomImageList>
     <DesktopHeight>0</DesktopHeight>
-    <SmartSizing>True</SmartSizing>
-    <SmartReconnect>False</SmartReconnect>
+    <DesktopWidth>0</DesktopWidth>
+    <Favorite>False</Favorite>
+    <HyperVEnhancedSessionMode>False</HyperVEnhancedSessionMode>
     <HyperVMode>0</HyperVMode>
     <HyperVPort>2179</HyperVPort>
-    <HyperVInstance />
-    <HyperVEnhancedSessionMode>False</HyperVEnhancedSessionMode>
-    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
-    <PreConnectTaskMode>1</PreConnectTaskMode>
-    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
-    <PreConnectTaskName />
-    <PreConnectTaskWait>False</PreConnectTaskWait>
-    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
-    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
-    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
-    <PostDisconnectTaskName />
-    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
-    <KeySequenceFromParent>False</KeySequenceFromParent>
     <KeySequenceEnabled>False</KeySequenceEnabled>
-    <KeySequence />
+    <KeySequenceFromParent>False</KeySequenceFromParent>
     <KeySequenceId>00000000-0000-0000-0000-000000000000</KeySequenceId>
-    <KeySequenceName />
-    <UseGlobalPlugInOSX>True</UseGlobalPlugInOSX>
+    <ParentID>3ea7884d-9f96-4e6e-ad5a-3eb92fa27ca4</ParentID>
     <PlugInOSX>1c919170-3ee3-437f-9326-a2316a9293a0</PlugInOSX>
+    <PostDisconnectTaskFromParent>False</PostDisconnectTaskFromParent>
+    <PostDisconnectTaskId>00000000-0000-0000-0000-000000000000</PostDisconnectTaskId>
+    <PostDisconnectTaskMode>1</PostDisconnectTaskMode>
+    <PostDisconnectTaskWait>False</PostDisconnectTaskWait>
+    <PreConnectTaskFromParent>False</PreConnectTaskFromParent>
+    <PreConnectTaskId>00000000-0000-0000-0000-000000000000</PreConnectTaskId>
+    <PreConnectTaskMode>1</PreConnectTaskMode>
+    <PreConnectTaskWait>False</PreConnectTaskWait>
+    <RDPPort>3389</RDPPort>
+    <ScaleFactor>100</ScaleFactor>
+    <SmartReconnect>False</SmartReconnect>
+    <SmartSizing>True</SmartSizing>
+    <URI>172.16.0.18</URI>
+    <UseGlobalPlugInOSX>True</UseGlobalPlugInOSX>
+    <UseRetinaResolution>False</UseRetinaResolution>
   </RoyalRDSConnection>
   <RoyalFolder>
     <ID>3ae8d9a2-0693-438f-92d4-94838ab56e8f</ID>
@@ -2414,7 +2113,7 @@
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
     <PositionNr>6</PositionNr>
-    <IsExpanded>True</IsExpanded>
+    <IsExpanded>False</IsExpanded>
     <ParentID>2fe02874-967c-45ae-bfaf-b3eaf0a6307a</ParentID>
   </RoyalFolder>
   <RoyalCredential>
@@ -2553,7 +2252,7 @@ $CustomField2$</KeySequence>
   <RoyalKeySequenceTask>
     <ID>1d345da5-8096-4d0e-9299-1524245891e4</ID>
     <Name>search</Name>
-    <Modified>06/04/2021 02:56:23.643</Modified>
+    <Modified>06/22/2021 11:42:36.439</Modified>
     <Created>05/07/2021 08:00:58.049</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -2586,7 +2285,7 @@ $CustomField2$</KeySequence>
     <KeySequence>. ssh-agent.sh
 {WAIT:100}ssh $CustomField1$
 {WAIT:100}sudo su www-data
-{WAIT:100}cd /var/www/http/fdapi-search-prod{ENTER}</KeySequence>
+{WAIT:100}cd $CustomField2${ENTER}</KeySequence>
     <NoConfirmationRequired>True</NoConfirmationRequired>
     <ParentID>dfcc95f0-e9fd-45d2-a8ac-1ceeab1363d3</ParentID>
     <ShowInFavoriteTasks>False</ShowInFavoriteTasks>
@@ -2653,7 +2352,7 @@ $CustomField2$</KeySequence>
   <RoyalKeySequenceTask>
     <ID>1587129b-99ef-4994-90c3-8447ef92664f</ID>
     <Name>自动化测试机器</Name>
-    <Modified>06/11/2021 06:38:26.819</Modified>
+    <Modified>06/28/2021 07:08:13.211</Modified>
     <Created>06/11/2021 06:37:21.410</Created>
     <ModifiedBy>hujia</ModifiedBy>
     <CreatedBy>hujia</CreatedBy>
@@ -2664,7 +2363,7 @@ $CustomField2$</KeySequence>
     <Favorite>False</Favorite>
     <KeySequence>{WAIT:100}ssh  ec2-user@10.2.27.176
 {WAIT:100}sudo su{ENTER}</KeySequence>
-    <NoConfirmationRequired>False</NoConfirmationRequired>
+    <NoConfirmationRequired>True</NoConfirmationRequired>
     <ParentID>dfcc95f0-e9fd-45d2-a8ac-1ceeab1363d3</ParentID>
     <ShowInFavoriteTasks>False</ShowInFavoriteTasks>
   </RoyalKeySequenceTask>
